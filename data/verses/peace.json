@@ -1,236 +1,25 @@
+
+
 {
-  "app_info": {
-    "name": "Daily Bible Verse",
-    "version": "1.0.0",
-    "description": "Illuminate Your Path with daily bible verses"
-  },
-  "categories": [
-    {
-      "id": "peace",
-      "name": "Peace",
-      "description": "Bible verses about peace",
-      "icon": "self_improvement"
-    },
-    {
-      "id": "love",
-      "name": "Love",
-      "description": "Bible verses about love",
-      "icon": "favorite"
-    },
-    {
-      "id": "hope",
-      "name": "Hope",
-      "description": "Bible verses about hope",
-      "icon": "lightbulb"
-    },
-    {
-      "id": "faith",
-      "name": "Faith",
-      "description": "Bible verses about faith and trust",
-      "icon": "all_inclusive"
-    },
-    {
-      "id": "healing",
-      "name": "Healing",
-      "description": "Bible verses about healing",
-      "icon": "health_and_safety"
-    },
-    {
-      "id": "psalms",
-      "name": "Psalms",
-      "description": "Verses from the book of Psalms",
-      "icon": "music_note"
-    },
-    {
-      "id": "proverbs",
-      "name": "Proverbs",
-      "description": "Wisdom from the book of Proverbs",
-      "icon": "auto_stories"
-    },
-    {
-      "id": "morning",
-      "name": "Morning",
-      "description": "Verses to start your day",
-      "icon": "light_mode"
-    },
-    {
-      "id": "evening",
-      "name": "Evening",
-      "description": "Verses to end your day",
-      "icon": "nightlight_round"
-    },
-    {
-      "id": "strength",
-      "name": "Strength",
-      "description": "Verses about strength",
-      "icon": "fitness_center"
-    },
-    {
-      "id": "wisdom",
-      "name": "Wisdom",
-      "description": "Verses about wisdom",
-      "icon": "psychology"
-    },
-    {
-      "id": "gratitude",
-      "name": "Gratitude",
-      "description": "Verses about thankfulness",
-      "icon": "favorite_border"
-    },
-    {
-      "id": "christmas",
-      "name": "Christmas",
-      "description": "Verses for Christmas",
-      "icon": "celebration"
-    },
-    {
-      "id": "easter",
-      "name": "Easter",
-      "description": "Verses for Easter",
-      "icon": "brightness_5"
-    },
-    {
-      "id": "birthday",
-      "name": "Birthday",
-      "description": "Verses for birthdays",
-      "icon": "cake"
-    },
-    {
-      "id": "new_year",
-      "name": "New Year",
-      "description": "Verses for the new year",
-      "icon": "event"
-    }
-  ],
-  "homepage": {
-    "welcome_message": "Good Morning,",
-    "subtitle": "Your Daily Blessing",
-    "daily_verse": {
-      "verse": "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future.\"",
-      "reference": "Jeremiah 29:11"
-    },
-    "verse_of_the_week": {
-      "verse": "\"Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.\"",
-      "reference": "Joshua 1:9"
-    },
-    "featured_categories": ["peace", "love", "hope", "faith", "healing"]
-  },
-  "verses": {
-    "peace": [
+  "status": "success",
+  "message": "homepage data",
+  "meta": {},
+  "data": {
+    "category": "Peace",
+    "verses": [
       {
-        "verse": "\"Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.\"",
+        "verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
         "reference": "John 14:27"
       },
       {
-        "verse": "\"The LORD gives strength to his people; the LORD blesses his people with peace.\"",
+        "verse": "The LORD gives strength to his people; the LORD blesses his people with peace.",
         "reference": "Psalm 29:11"
       },
       {
-        "verse": "\"Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.\"",
+        "verse": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.",
         "reference": "Colossians 3:15"
-      }
-    ],
-    "love": [
-      {
-        "verse": "\"Love is patient, love is kind. It does not envy, it does not boast, it is not proud.\"",
-        "reference": "1 Corinthians 13:4"
-      },
-      {
-        "verse": "\"We love because he first loved us.\"",
-        "reference": "1 John 4:19"
-      },
-      {
-        "verse": "\"Above all, love each other deeply, because love covers over a multitude of sins.\"",
-        "reference": "1 Peter 4:8"
-      }
-    ],
-    "faith": [
-      {
-        "verse": "\"Trust in the LORD with all your heart and lean not on your own understanding.\"",
-        "reference": "Proverbs 3:5"
-      },
-      {
-        "verse": "\"For God so loved the world that he gave his one and only Son.\"",
-        "reference": "John 3:16"
-      },
-      {
-        "verse": "\"Be strong and courageous. Do not be afraid; do not be discouraged.\"",
-        "reference": "Joshua 1:9"
-      }
-    ],
-    "hope": [
-      {
-        "verse": "\"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.\"",
-        "reference": "Romans 15:13"
-      },
-      {
-        "verse": "\"For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have?\"",
-        "reference": "Romans 8:24"
-      },
-      {
-        "verse": "\"But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.\"",
-        "reference": "Isaiah 40:31"
-      }
-    ],
-    "healing": [
-      {
-        "verse": "\"He heals the brokenhearted and binds up their wounds.\"",
-        "reference": "Psalm 147:3"
-      },
-      {
-        "verse": "\"But I will restore you to health and heal your wounds,\" declares the LORD.",
-        "reference": "Jeremiah 30:17"
-      },
-      {
-        "verse": "\"He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed.\"",
-        "reference": "1 Peter 2:24"
       }
     ]
   },
-  "favorites": [
-    {
-      "verse": "\"The LORD is my shepherd, I lack nothing.\"",
-      "reference": "Psalm 23:1",
-      "category": "Peace"
-    },
-    {
-      "verse": "\"I can do all this through him who gives me strength.\"",
-      "reference": "Philippians 4:13",
-      "category": "Strength"
-    },
-    {
-      "verse": "\"Be joyful in hope, patient in affliction, faithful in prayer.\"",
-      "reference": "Romans 12:12",
-      "category": "Hope"
-    }
-  ],
-  "settings": {
-    "notifications": {
-      "daily_verse": true,
-      "morning_verse": true,
-      "evening_verse": false,
-      "weekly_highlights": true,
-      "special_occasions": true
-    },
-    "theme": "light",
-    "font_size": "medium",
-    "bible_version": "NIV"
-  },
-  "onboarding": [
-    {
-      "title": "Daily Inspiration",
-      "description": "Start each day with uplifting bible verses tailored for you",
-      "icon": "light_mode_rounded"
-    },
-    {
-      "title": "Curated Categories",
-      "description": "Explore verses by theme, occasion, or emotion",
-      "icon": "category_rounded"
-    },
-    {
-      "title": "Share & Save",
-      "description": "Save your favorites and share them with loved ones",
-      "icon": "favorite_rounded"
-    }
-  ]
+  "error": []
 }
