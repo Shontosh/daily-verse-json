@@ -8,16 +8,700 @@
     "category": "Peace",
     "verses": [
       {
+        "verse": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+        "reference": "Isaiah 26:3"
+      },
+      {
+        "verse": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace.",
+        "reference": "Numbers 6:24-26"
+      },
+      {
+        "verse": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
+        "reference": "John 16:33"
+      },
+      {
+        "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reference": "Philippians 4:6-7"
+      },
+      {
+        "verse": "Turn from evil and do good; seek peace and pursue it.",
+        "reference": "Psalm 34:14"
+      },
+      {
+        "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
+        "reference": "Romans 15:13"
+      },
+      {
+        "verse": "Great peace have those who love your law, and nothing can make them stumble.",
+        "reference": "Psalm 119:165"
+      },
+      {
+        "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+        "reference": "Galatians 5:22-23"
+      },
+      {
+        "verse": "Now may the Lord of peace himself give you peace at all times and in every way.",
+        "reference": "2 Thessalonians 3:16"
+      },
+      {
+        "verse": "Blessed are the peacemakers, for they will be called children of God.",
+        "reference": "Matthew 5:9"
+      },
+      {
+        "verse": "The mind governed by the flesh is death, but the mind governed by the Spirit is life and peace.",
+        "reference": "Romans 8:6"
+      },
+      {
+        "verse": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reference": "Philippians 4:7"
+      },
+      {
+        "verse": "For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility.",
+        "reference": "Ephesians 2:14"
+      },
+      {
+        "verse": "Depart from evil and do good; seek peace and pursue it.",
+        "reference": "1 Peter 3:11"
+      },
+      {
+        "verse": "Let us therefore make every effort to do what leads to peace and to mutual edification.",
+        "reference": "Romans 14:19"
+      },
+      {
+        "verse": "The Lord gives strength to his people; the Lord blesses his people with peace.",
+        "reference": "Psalm 29:11"
+      },
+      {
+        "verse": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.",
+        "reference": "Isaiah 53:5"
+      },
+      {
+        "verse": "And the effect of righteousness will be peace, and the result of righteousness, quietness and trust forever.",
+        "reference": "Isaiah 32:17"
+      },
+      {
+        "verse": "For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+        "reference": "Isaiah 9:6"
+      },
+      {
+        "verse": "Live in peace with each other.",
+        "reference": "1 Thessalonians 5:13"
+      },
+      {
+        "verse": "Finally, brothers and sisters, rejoice! Strive for full restoration, encourage one another, be of one mind, live in peace. And the God of love and peace will be with you.",
+        "reference": "2 Corinthians 13:11"
+      },
+      {
+        "verse": "A heart at peace gives life to the body, but envy rots the bones.",
+        "reference": "Proverbs 14:30"
+      },
+      {
+        "verse": "Make every effort to keep the unity of the Spirit through the bond of peace.",
+        "reference": "Ephesians 4:3"
+      },
+      {
+        "verse": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul.",
+        "reference": "Psalm 23:1-3"
+      },
+      {
+        "verse": "When a man’s ways please the Lord, he makes even his enemies to be at peace with him.",
+        "reference": "Proverbs 16:7"
+      },
+      {
+        "verse": "And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.",
+        "reference": "Colossians 3:15"
+      },
+      {
+        "verse": "But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.",
+        "reference": "James 3:17"
+      },
+      {
+        "verse": "In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.",
+        "reference": "Psalm 4:8"
+      },
+      {
+        "verse": "For God is not a God of disorder but of peace.",
+        "reference": "1 Corinthians 14:33"
+      },
+      {
+        "verse": "The Lord will fight for you; you need only to be still.",
+        "reference": "Exodus 14:14"
+      },
+      {
+        "verse": "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ.",
+        "reference": "Romans 5:1"
+      },
+      {
+        "verse": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reference": "Philippians 4:7"
+      },
+      {
+        "verse": "He will stand and shepherd his flock in the strength of the Lord, in the majesty of the name of the Lord his God. And they will live securely, for then his greatness will reach to the ends of the earth. And he will be our peace.",
+        "reference": "Micah 5:4-5"
+      },
+      {
+        "verse": "The Lord lift up his countenance upon you and give you peace.",
+        "reference": "Numbers 6:26"
+      },
+      {
+        "verse": "Be still before the Lord and wait patiently for him; fret not yourself over the one who prospers in his way, over the man who carries out evil devices!",
+        "reference": "Psalm 37:7"
+      },
+      {
+        "verse": "You will go out in joy and be led forth in peace; the mountains and hills will burst into song before you, and all the trees of the field will clap their hands.",
+        "reference": "Isaiah 55:12"
+      },
+      {
+        "verse": "Peacemakers who sow in peace reap a harvest of righteousness.",
+        "reference": "James 3:18"
+      },
+      {
+        "verse": "The Lord is good, a refuge in times of trouble. He cares for those who trust in him.",
+        "reference": "Nahum 1:7"
+      },
+      {
+        "verse": "Truly my soul finds rest in God; my salvation comes from him.",
+        "reference": "Psalm 62:1"
+      },
+      {
+        "verse": "Come to me, all you who are weary and burdened, and I will give you rest.",
+        "reference": "Matthew 11:28"
+      },
+      {
+        "verse": "Cast all your anxiety on him because he cares for you.",
+        "reference": "1 Peter 5:7"
+      },
+      {
+        "verse": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+        "reference": "Psalm 27:1"
+      },
+      {
+        "verse": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you.",
+        "reference": "Deuteronomy 31:6"
+      },
+      {
+        "verse": "And surely I am with you always, to the very end of the age.",
+        "reference": "Matthew 28:20"
+      },
+      {
+        "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+        "reference": "Psalm 145:18"
+      },
+      {
+        "verse": "Do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+        "reference": "Isaiah 41:10"
+      },
+      {
+        "verse": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+        "reference": "Proverbs 3:5-6"
+      },
+      {
+        "verse": "The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+        "reference": "Proverbs 18:10"
+      },
+      {
+        "verse": "He who dwells in the shelter of the Most High will rest in the shadow of the Almighty.",
+        "reference": "Psalm 91:1"
+      },
+      {
+        "verse": "The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold.",
+        "reference": "Psalm 18:2"
+      },
+      {
+        "verse": "But the Lord is faithful, and he will strengthen you and protect you from the evil one.",
+        "reference": "2 Thessalonians 3:3"
+      },
+      {
+        "verse": "The Lord is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
+        "reference": "Nahum 1:7"
+      },
+      {
+        "verse": "I sought the Lord, and he answered me; he delivered me from all my fears.",
+        "reference": "Psalm 34:4"
+      },
+      {
+        "verse": "When I am afraid, I put my trust in you.",
+        "reference": "Psalm 56:3"
+      },
+      {
+        "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+        "reference": "Psalm 28:7"
+      },
+      {
+        "verse": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+        "reference": "Isaiah 41:10"
+      },
+      {
+        "verse": "For I am the Lord your God who takes hold of your right hand and says to you, Do not fear; I will help you.",
+        "reference": "Isaiah 41:13"
+      },
+      {
+        "verse": "The Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.",
+        "reference": "Zephaniah 3:17"
+      },
+      {
+        "verse": "The Lord is my shepherd, I lack nothing.",
+        "reference": "Psalm 23:1"
+      },
+      {
+        "verse": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+        "reference": "Psalm 23:4"
+      },
+      {
+        "verse": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+        "reference": "Psalm 27:1"
+      },
+      {
+        "verse": "When anxiety was great within me, your consolation brought me joy.",
+        "reference": "Psalm 94:19"
+      },
+      {
+        "verse": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.",
+        "reference": "Psalm 55:22"
+      },
+      {
+        "verse": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+        "reference": "Psalm 34:18"
+      },
+      {
+        "verse": "He heals the brokenhearted and binds up their wounds.",
+        "reference": "Psalm 147:3"
+      },
+      {
+        "verse": "Come to me, all you who are weary and burdened, and I will give you rest.",
+        "reference": "Matthew 11:28"
+      },
+      {
         "verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
         "reference": "John 14:27"
       },
       {
-        "verse": "The LORD gives strength to his people; the LORD blesses his people with peace.",
+        "verse": "The Lord gives strength to his people; the Lord blesses his people with peace.",
         "reference": "Psalm 29:11"
       },
       {
         "verse": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.",
         "reference": "Colossians 3:15"
+      },
+      {
+        "verse": "The Lord will bless his people with peace.",
+        "reference": "Psalm 29:11"
+      },
+      {
+        "verse": "And the work of righteousness will be peace, and the effect of righteousness, quietness and assurance forever.",
+        "reference": "Isaiah 32:17"
+      },
+      {
+        "verse": "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility.",
+        "reference": "Ephesians 2:14"
+      },
+      {
+        "verse": "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ.",
+        "reference": "1 Thessalonians 5:23"
+      },
+      {
+        "verse": "But the meek shall inherit the earth and shall delight themselves in the abundance of peace.",
+        "reference": "Psalm 37:11"
+      },
+      {
+        "verse": "Deceit is in the heart of those who devise evil, but those who plan peace have joy.",
+        "reference": "Proverbs 12:20"
+      },
+      {
+        "verse": "And let the peace of God rule in your hearts, to which also you were called in one body; and be thankful.",
+        "reference": "Colossians 3:15"
+      },
+      {
+        "verse": "Mark the blameless and behold the upright, for there is a future for the man of peace.",
+        "reference": "Psalm 37:37"
+      },
+      {
+        "verse": "For the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit.",
+        "reference": "Romans 14:17"
+      },
+      {
+        "verse": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reference": "Philippians 4:7"
+      },
+      {
+        "verse": "I will both lie down in peace, and sleep; for You alone, O Lord, make me dwell in safety.",
+        "reference": "Psalm 4:8"
+      },
+      {
+        "verse": "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.",
+        "reference": "Romans 5:1"
+      },
+      {
+        "verse": "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.",
+        "reference": "James 3:17"
+      },
+      {
+        "verse": "You keep him in perfect peace whose mind is stayed on you, because he trusts in you.",
+        "reference": "Isaiah 26:3"
+      },
+      {
+        "verse": "And he came and preached peace to you who were far off and peace to those who were near.",
+        "reference": "Ephesians 2:17"
+      },
+      {
+        "verse": "The Lord lift up his countenance upon you and give you peace.",
+        "reference": "Numbers 6:26"
+      },
+      {
+        "verse": "Great peace have those who love your law; nothing can make them stumble.",
+        "reference": "Psalm 119:165"
+      },
+      {
+        "verse": "So then let us pursue what makes for peace and for mutual upbuilding.",
+        "reference": "Romans 14:19"
+      },
+      {
+        "verse": "For God is not a God of confusion but of peace.",
+        "reference": "1 Corinthians 14:33"
+      },
+      {
+        "verse": "And let us not grow weary of doing good, for in due season we will reap, if we do not give up.",
+        "reference": "Galatians 6:9"
+      },
+      {
+        "verse": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness.",
+        "reference": "Galatians 5:22"
+      },
+      {
+        "verse": "And the effect of righteousness will be peace, and the result of righteousness, quietness and trust forever.",
+        "reference": "Isaiah 32:17"
+      },
+      {
+        "verse": "Now may the Lord of peace himself give you peace at all times in every way. The Lord be with you all.",
+        "reference": "2 Thessalonians 3:16"
+      },
+      {
+        "verse": "A soft answer turns away wrath, but a harsh word stirs up anger.",
+        "reference": "Proverbs 15:1"
+      },
+      {
+        "verse": "Be still before the Lord and wait patiently for him; fret not yourself over the one who prospers in his way, over the man who carries out evil devices!",
+        "reference": "Psalm 37:7"
+      },
+      {
+        "verse": "The Lord will fight for you, and you have only to be silent.",
+        "reference": "Exodus 14:14"
+      },
+      {
+        "verse": "For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope.",
+        "reference": "Jeremiah 29:11"
+      },
+      {
+        "verse": "Trust in the Lord with all your heart, and do not lean on your own understanding.",
+        "reference": "Proverbs 3:5"
+      },
+      {
+        "verse": "When the cares of my heart are many, your consolations cheer my soul.",
+        "reference": "Psalm 94:19"
+      },
+      {
+        "verse": "But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.",
+        "reference": "Isaiah 40:31"
+      },
+      {
+        "verse": "The Lord is my strength and my song, and he has become my salvation.",
+        "reference": "Psalm 118:14"
+      },
+      {
+        "verse": "He restores my soul. He leads me in paths of righteousness for his name's sake.",
+        "reference": "Psalm 23:3"
+      },
+      {
+        "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+        "reference": "Psalm 34:18"
+      },
+      {
+        "verse": "Cast your burden on the Lord, and he will sustain you; he will never permit the righteous to be moved.",
+        "reference": "Psalm 55:22"
+      },
+      {
+        "verse": "Come to me, all who labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28"
+      },
+      {
+        "verse": "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
+        "reference": "Isaiah 41:10"
+      },
+      {
+        "verse": "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?",
+        "reference": "Psalm 27:1"
+      },
+      {
+        "verse": "Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you.",
+        "reference": "Deuteronomy 31:6"
+      },
+      {
+        "verse": "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid.",
+        "reference": "John 14:27"
+      },
+      {
+        "verse": "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.",
+        "reference": "Philippians 4:6"
+      },
+      {
+        "verse": "And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.",
+        "reference": "Colossians 3:15"
+      },
+      {
+        "verse": "The Lord is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
+        "reference": "Nahum 1:7"
+      },
+      {
+        "verse": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+        "reference": "Isaiah 26:3"
+      },
+      {
+        "verse": "The Lord is my shepherd; I shall not want.",
+        "reference": "Psalm 23:1"
+      },
+      {
+        "verse": "He makes me lie down in green pastures. He leads me beside still waters.",
+        "reference": "Psalm 23:2"
+      },
+      {
+        "verse": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+        "reference": "Psalm 23:4"
+      },
+      {
+        "verse": "Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.",
+        "reference": "Psalm 23:6"
+      },
+      {
+        "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped; my heart exults, and with my song I give thanks to him.",
+        "reference": "Psalm 28:7"
+      },
+      {
+        "verse": "I sought the Lord, and he answered me and delivered me from all my fears.",
+        "reference": "Psalm 34:4"
+      },
+      {
+        "verse": "Oh, taste and see that the Lord is good! Blessed is the man who takes refuge in him!",
+        "reference": "Psalm 34:8"
+      },
+      {
+        "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+        "reference": "Psalm 145:18"
+      },
+      {
+        "verse": "When I am afraid, I put my trust in you.",
+        "reference": "Psalm 56:3"
+      },
+      {
+        "verse": "In God I trust; I shall not be afraid. What can man do to me?",
+        "reference": "Psalm 56:11"
+      },
+      {
+        "verse": "God is our refuge and strength, a very present help in trouble.",
+        "reference": "Psalm 46:1"
+      },
+      {
+        "verse": "Therefore we will not fear though the earth gives way, though the mountains be moved into the heart of the sea.",
+        "reference": "Psalm 46:2"
+      },
+      {
+        "verse": "Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!",
+        "reference": "Psalm 46:10"
+      },
+      {
+        "verse": "The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.",
+        "reference": "Psalm 18:2"
+      },
+      {
+        "verse": "The name of the Lord is a strong tower; the righteous man runs into it and is safe.",
+        "reference": "Proverbs 18:10"
+      },
+      {
+        "verse": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.",
+        "reference": "Psalm 91:1"
+      },
+      {
+        "verse": "I will say to the Lord, 'My refuge and my fortress, my God, in whom I trust.'",
+        "reference": "Psalm 91:2"
+      },
+      {
+        "verse": "For he will deliver you from the snare of the fowler and from the deadly pestilence.",
+        "reference": "Psalm 91:3"
+      },
+      {
+        "verse": "He will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckler.",
+        "reference": "Psalm 91:4"
+      },
+      {
+        "verse": "You will not fear the terror of the night, nor the arrow that flies by day.",
+        "reference": "Psalm 91:5"
+      },
+      {
+        "verse": "Because you have made the Lord your dwelling place—the Most High, who is my refuge—",
+        "reference": "Psalm 91:9"
+      },
+      {
+        "verse": "No evil shall be allowed to befall you, no plague come near your tent.",
+        "reference": "Psalm 91:10"
+      },
+      {
+        "verse": "For he will command his angels concerning you to guard you in all your ways.",
+        "reference": "Psalm 91:11"
+      },
+      {
+        "verse": "Because he holds fast to me in love, I will deliver him; I will protect him, because he knows my name.",
+        "reference": "Psalm 91:14"
+      },
+      {
+        "verse": "When he calls to me, I will answer him; I will be with him in trouble; I will rescue him and honor him.",
+        "reference": "Psalm 91:15"
+      },
+      {
+        "verse": "With long life I will satisfy him and show him my salvation.",
+        "reference": "Psalm 91:16"
+      },
+      {
+        "verse": "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?",
+        "reference": "Psalm 27:1"
+      },
+      {
+        "verse": "Though an army encamp against me, my heart shall not fear; though war arise against me, yet I will be confident.",
+        "reference": "Psalm 27:3"
+      },
+      {
+        "verse": "One thing have I asked of the Lord, that will I seek after: that I may dwell in the house of the Lord all the days of my life, to gaze upon the beauty of the Lord and to inquire in his temple.",
+        "reference": "Psalm 27:4"
+      },
+      {
+        "verse": "For he will hide me in his shelter in the day of trouble; he will conceal me under the cover of his tent; he will lift me high upon a rock.",
+        "reference": "Psalm 27:5"
+      },
+      {
+        "verse": "And now my head shall be lifted up above my enemies all around me, and I will offer in his tent sacrifices with shouts of joy; I will sing and make melody to the Lord.",
+        "reference": "Psalm 27:6"
+      },
+      {
+        "verse": "Hear, O Lord, when I cry aloud; be gracious to me and answer me!",
+        "reference": "Psalm 27:7"
+      },
+      {
+        "verse": "You have said, 'Seek my face.' My heart says to you, 'Your face, Lord, do I seek.'",
+        "reference": "Psalm 27:8"
+      },
+      {
+        "verse": "Hide not your face from me. Turn not your servant away in anger, O you who have been my help. Cast me not off; forsake me not, O God of my salvation!",
+        "reference": "Psalm 27:9"
+      },
+      {
+        "verse": "For my father and my mother have forsaken me, but the Lord will take me in.",
+        "reference": "Psalm 27:10"
+      },
+      {
+        "verse": "Teach me your way, O Lord, and lead me on a level path because of my enemies.",
+        "reference": "Psalm 27:11"
+      },
+      {
+        "verse": "Give me not up to the will of my adversaries; for false witnesses have risen against me, and they breathe out violence.",
+        "reference": "Psalm 27:12"
+      },
+      {
+        "verse": "I believe that I shall look upon the goodness of the Lord in the land of the living!",
+        "reference": "Psalm 27:13"
+      },
+      {
+        "verse": "Wait for the Lord; be strong, and let your heart take courage; wait for the Lord!",
+        "reference": "Psalm 27:14"
+      },
+      {
+        "verse": "The Lord is my strength and my song; he has become my salvation.",
+        "reference": "Psalm 118:14"
+      },
+      {
+        "verse": "The Lord is on my side; I will not fear. What can man do to me?",
+        "reference": "Psalm 118:6"
+      },
+      {
+        "verse": "It is better to take refuge in the Lord than to trust in man.",
+        "reference": "Psalm 118:8"
+      },
+      {
+        "verse": "It is better to take refuge in the Lord than to trust in princes.",
+        "reference": "Psalm 118:9"
+      },
+      {
+        "verse": "I was pushed hard, so that I was falling, but the Lord helped me.",
+        "reference": "Psalm 118:13"
+      },
+      {
+        "verse": "The Lord is my strength and my song; he has become my salvation.",
+        "reference": "Psalm 118:14"
+      },
+      {
+        "verse": "Glad songs of salvation are in the tents of the righteous: 'The right hand of the Lord does valiantly, the right hand of the Lord exalts, the right hand of the Lord does valiantly!'",
+        "reference": "Psalm 118:15-16"
+      },
+      {
+        "verse": "I shall not die, but I shall live, and recount the deeds of the Lord.",
+        "reference": "Psalm 118:17"
+      },
+      {
+        "verse": "The Lord has disciplined me severely, but he has not given me over to death.",
+        "reference": "Psalm 118:18"
+      },
+      {
+        "verse": "Open to me the gates of righteousness, that I may enter through them and give thanks to the Lord.",
+        "reference": "Psalm 118:19"
+      },
+      {
+        "verse": "This is the gate of the Lord; the righteous shall enter through it.",
+        "reference": "Psalm 118:20"
+      },
+      {
+        "verse": "I thank you that you have answered me and have become my salvation.",
+        "reference": "Psalm 118:21"
+      },
+      {
+        "verse": "The stone that the builders rejected has become the cornerstone.",
+        "reference": "Psalm 118:22"
+      },
+      {
+        "verse": "This is the Lord's doing; it is marvelous in our eyes.",
+        "reference": "Psalm 118:23"
+      },
+      {
+        "verse": "This is the day that the Lord has made; let us rejoice and be glad in it.",
+        "reference": "Psalm 118:24"
+      },
+      {
+        "verse": "Save us, we pray, O Lord! O Lord, we pray, give us success!",
+        "reference": "Psalm 118:25"
+      },
+      {
+        "verse": "Blessed is he who comes in the name of the Lord! We bless you from the house of the Lord.",
+        "reference": "Psalm 118:26"
+      },
+      {
+        "verse": "The Lord is God, and he has made his light to shine upon us. Bind the festal sacrifice with cords, up to the horns of the altar!",
+        "reference": "Psalm 118:27"
+      },
+      {
+        "verse": "You are my God, and I will give thanks to you; you are my God; I will extol you.",
+        "reference": "Psalm 118:28"
+      },
+      {
+        "verse": "Oh give thanks to the Lord, for he is good; for his steadfast love endures forever!",
+        "reference": "Psalm 118:29"
+      },
+      {
+        "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped; my heart exults, and with my song I give thanks to him.",
+        "reference": "Psalm 28:7"
+      },
+      {
+        "verse": "The Lord is the strength of his people; he is the saving refuge of his anointed.",
+        "reference": "Psalm 28:8"
+      },
+      {
+        "verse": "Oh, save your people and bless your heritage! Be their shepherd and carry them forever.",
+        "reference": "Psalm 28:9"
       }
     ]
   },
