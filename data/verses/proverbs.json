@@ -1,0 +1,834 @@
+
+{
+  "status": "success",
+  "message": "homepage data",
+  "meta": {},
+  "data":
+  {
+  "category": "Proverbs",
+  "verses": [
+    {
+      "verse": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
+      "reference": "Proverbs 1:7"
+    },
+    {
+      "verse": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+      "reference": "Proverbs 3:5-6"
+    },
+    {
+      "verse": "Do not be wise in your own eyes; fear the Lord and shun evil.",
+      "reference": "Proverbs 3:7"
+    },
+    {
+      "verse": "Honor the Lord with your wealth, with the firstfruits of all your crops.",
+      "reference": "Proverbs 3:9"
+    },
+    {
+      "verse": "Blessed are those who find wisdom, those who gain understanding.",
+      "reference": "Proverbs 3:13"
+    },
+    {
+      "verse": "The Lord by wisdom founded the earth; by understanding he established the heavens.",
+      "reference": "Proverbs 3:19"
+    },
+    {
+      "verse": "Above all else, guard your heart, for everything you do flows from it.",
+      "reference": "Proverbs 4:23"
+    },
+    {
+      "verse": "The lips of the righteous nourish many, but fools die for lack of sense.",
+      "reference": "Proverbs 10:21"
+    },
+    {
+      "verse": "Where there is strife, there is pride, but wisdom is found in those who take advice.",
+      "reference": "Proverbs 13:10"
+    },
+    {
+      "verse": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+      "reference": "Proverbs 15:1"
+    },
+    {
+      "verse": "The eyes of the Lord are everywhere, keeping watch on the wicked and the good.",
+      "reference": "Proverbs 15:3"
+    },
+    {
+      "verse": "Better a little with the fear of the Lord than great wealth with turmoil.",
+      "reference": "Proverbs 15:16"
+    },
+    {
+      "verse": "Commit to the Lord whatever you do, and he will establish your plans.",
+      "reference": "Proverbs 16:3"
+    },
+    {
+      "verse": "Pride goes before destruction, a haughty spirit before a fall.",
+      "reference": "Proverbs 16:18"
+    },
+    {
+      "verse": "Gray hair is a crown of splendor; it is attained in the way of righteousness.",
+      "reference": "Proverbs 16:31"
+    },
+    {
+      "verse": "A friend loves at all times, and a brother is born for a time of adversity.",
+      "reference": "Proverbs 17:17"
+    },
+    {
+      "verse": "Even fools are thought wise if they keep silent, and discerning if they hold their tongues.",
+      "reference": "Proverbs 17:28"
+    },
+    {
+      "verse": "The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+      "reference": "Proverbs 18:10"
+    },
+    {
+      "verse": "A man of many companions may come to ruin, but there is a friend who sticks closer than a brother.",
+      "reference": "Proverbs 18:24"
+    },
+    {
+      "verse": "Wealth attracts many friends, but even the closest friend of the poor person deserts them.",
+      "reference": "Proverbs 19:4"
+    },
+    {
+      "verse": "Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails.",
+      "reference": "Proverbs 19:21"
+    },
+    {
+      "verse": "Whoever is kind to the poor lends to the Lord, and he will reward them for what they have done.",
+      "reference": "Proverbs 19:17"
+    },
+    {
+      "verse": "Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.",
+      "reference": "Proverbs 20:1"
+    },
+    {
+      "verse": "A person’s steps are directed by the Lord. How then can anyone understand their own way?",
+      "reference": "Proverbs 20:24"
+    },
+    {
+      "verse": "The horse is made ready for the day of battle, but victory rests with the Lord.",
+      "reference": "Proverbs 21:31"
+    },
+    {
+      "verse": "Train up a child in the way he should go; even when he is old he will not depart from it.",
+      "reference": "Proverbs 22:6"
+    },
+    {
+      "verse": "The rich and the poor meet together; the Lord is the maker of them all.",
+      "reference": "Proverbs 22:2"
+    },
+    {
+      "verse": "Do not say, 'I’ll pay you back for this wrong!' Wait for the Lord, and he will avenge you.",
+      "reference": "Proverbs 20:22"
+    },
+    {
+      "verse": "Do not envy the wicked, do not desire their company.",
+      "reference": "Proverbs 24:1"
+    },
+    {
+      "verse": "By wisdom a house is built, and through understanding it is established.",
+      "reference": "Proverbs 24:3"
+    },
+    {
+      "verse": "Like a muddied spring or a polluted well are the righteous who give way to the wicked.",
+      "reference": "Proverbs 25:26"
+    },
+    {
+      "verse": "If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.",
+      "reference": "Proverbs 25:21"
+    },
+    {
+      "verse": "As iron sharpens iron, so one person sharpens another.",
+      "reference": "Proverbs 27:17"
+    },
+    {
+      "verse": "Do not boast about tomorrow, for you do not know what a day may bring.",
+      "reference": "Proverbs 27:1"
+    },
+    {
+      "verse": "The wicked flee though no one pursues, but the righteous are as bold as a lion.",
+      "reference": "Proverbs 28:1"
+    },
+    {
+      "verse": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.",
+      "reference": "Proverbs 28:13"
+    },
+    {
+      "verse": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom’s instruction.",
+      "reference": "Proverbs 29:18"
+    },
+    {
+      "verse": "The righteous care about justice for the poor, but the wicked have no such concern.",
+      "reference": "Proverbs 29:7"
+    },
+    {
+      "verse": "Every word of God is flawless; he is a shield to those who take refuge in him.",
+      "reference": "Proverbs 30:5"
+    },
+    {
+      "verse": "Give her the reward she has earned, and let her works bring her praise at the city gate.",
+      "reference": "Proverbs 31:31"
+    },
+    {
+      "verse": "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.",
+      "reference": "Proverbs 31:30"
+    },
+    {
+      "verse": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+      "reference": "Proverbs 9:10"
+    },
+    {
+      "verse": "A wise son brings joy to his father, but a foolish son brings grief to his mother.",
+      "reference": "Proverbs 10:1"
+    },
+    {
+      "verse": "The blessing of the Lord brings wealth, without painful toil for it.",
+      "reference": "Proverbs 10:22"
+    },
+    {
+      "verse": "The way of the Lord is a refuge for the blameless, but it is the ruin of those who do evil.",
+      "reference": "Proverbs 10:29"
+    },
+    {
+      "verse": "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out.",
+      "reference": "Proverbs 10:9"
+    },
+    {
+      "verse": "Dishonest money dwindles away, but whoever gathers money little by little makes it grow.",
+      "reference": "Proverbs 13:11"
+    },
+    {
+      "verse": "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.",
+      "reference": "Proverbs 13:12"
+    },
+    {
+      "verse": "Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.",
+      "reference": "Proverbs 13:24"
+    },
+    {
+      "verse": "The wise woman builds her house, but with her own hands the foolish one tears hers down.",
+      "reference": "Proverbs 14:1"
+    },
+    {
+      "verse": "There is a way that appears to be right, but in the end it leads to death.",
+      "reference": "Proverbs 14:12"
+    },
+    {
+      "verse": "A heart at peace gives life to the body, but envy rots the bones.",
+      "reference": "Proverbs 14:30"
+    },
+    {
+      "verse": "The Lord is far from the wicked, but he hears the prayer of the righteous.",
+      "reference": "Proverbs 15:29"
+    },
+    {
+      "verse": "All a person’s ways seem pure to them, but motives are weighed by the Lord.",
+      "reference": "Proverbs 16:2"
+    },
+    {
+      "verse": "How much better to get wisdom than gold, to get insight rather than silver!",
+      "reference": "Proverbs 16:16"
+    },
+    {
+      "verse": "Whoever gives heed to instruction prospers, and blessed is the one who trusts in the Lord.",
+      "reference": "Proverbs 16:20"
+    },
+    {
+      "verse": "Better a dry crust with peace and quiet than a house full of feasting, with strife.",
+      "reference": "Proverbs 17:1"
+    },
+    {
+      "verse": "Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out.",
+      "reference": "Proverbs 17:14"
+    },
+    {
+      "verse": "One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.",
+      "reference": "Proverbs 18:24"
+    },
+    {
+      "verse": "An unfriendly person pursues selfish ends and against all sound judgment starts quarrels.",
+      "reference": "Proverbs 18:1"
+    },
+    {
+      "verse": "To answer before listening—that is folly and shame.",
+      "reference": "Proverbs 18:13"
+    },
+    {
+      "verse": "The first to present his case seems right, till another comes forward and questions him.",
+      "reference": "Proverbs 18:17"
+    },
+    {
+      "verse": "A foolish son is his father’s ruin, and a quarrelsome wife is like the constant dripping of a leaky roof.",
+      "reference": "Proverbs 19:13"
+    },
+    {
+      "verse": "Discipline your children, for in that there is hope; do not be a willing party to their death.",
+      "reference": "Proverbs 19:18"
+    },
+    {
+      "verse": "Listen to advice and accept discipline, and at the end you will be counted among the wise.",
+      "reference": "Proverbs 19:20"
+    },
+    {
+      "verse": "It is to one’s honor to avoid strife, but every fool is quick to quarrel.",
+      "reference": "Proverbs 20:3"
+    },
+    {
+      "verse": "The purposes of a person’s heart are deep waters, but one who has insight draws them out.",
+      "reference": "Proverbs 20:5"
+    },
+    {
+      "verse": "Who can say, 'I have kept my heart pure; I am clean and without sin'?",
+      "reference": "Proverbs 20:9"
+    },
+    {
+      "verse": "The glory of young men is their strength, gray hair the splendor of the old.",
+      "reference": "Proverbs 20:29"
+    },
+    {
+      "verse": "The king’s heart is in the hand of the Lord; he directs it like a watercourse wherever he pleases.",
+      "reference": "Proverbs 21:1"
+    },
+    {
+      "verse": "Haughty eyes and a proud heart—the unplowed field of the wicked—produce sin.",
+      "reference": "Proverbs 21:4"
+    },
+    {
+      "verse": "The plans of the diligent lead to profit as surely as haste leads to poverty.",
+      "reference": "Proverbs 21:5"
+    },
+    {
+      "verse": "Whoever pursues righteousness and love finds life, prosperity, and honor.",
+      "reference": "Proverbs 21:21"
+    },
+    {
+      "verse": "The wise store up choice food and olive oil, but fools gulp theirs down.",
+      "reference": "Proverbs 21:20"
+    },
+    {
+      "verse": "The stingy are eager to get rich and are unaware that poverty awaits them.",
+      "reference": "Proverbs 28:22"
+    },
+    {
+      "verse": "Whoever increases wealth by taking interest or profit from the poor amasses it for another, who will be kind to the poor.",
+      "reference": "Proverbs 28:8"
+    },
+    {
+      "verse": "Evildoers do not understand what is right, but those who seek the Lord understand it fully.",
+      "reference": "Proverbs 28:5"
+    },
+    {
+      "verse": "Better the poor whose walk is blameless than the rich whose ways are perverse.",
+      "reference": "Proverbs 28:6"
+    },
+    {
+      "verse": "Whoever robs their father and drives out their mother is a child who brings shame and disgrace.",
+      "reference": "Proverbs 19:26"
+    },
+    {
+      "verse": "The greedy bring ruin to their households, but the one who hates bribes will live.",
+      "reference": "Proverbs 15:27"
+    },
+    {
+      "verse": "The Lord detests the way of the wicked, but he loves those who pursue righteousness.",
+      "reference": "Proverbs 15:9"
+    },
+    {
+      "verse": "A wise son heeds his father’s instruction, but a mocker does not respond to rebukes.",
+      "reference": "Proverbs 13:1"
+    },
+    {
+      "verse": "From the fruit of their lips people enjoy good things, but the unfaithful have an appetite for violence.",
+      "reference": "Proverbs 13:2"
+    },
+    {
+      "verse": "Those who guard their lips preserve their lives, but those who speak rashly will come to ruin.",
+      "reference": "Proverbs 13:3"
+    },
+    {
+      "verse": "The light of the righteous shines brightly, but the lamp of the wicked is snuffed out.",
+      "reference": "Proverbs 13:9"
+    },
+    {
+      "verse": "Pride only breeds quarrels, but wisdom is found in those who take advice.",
+      "reference": "Proverbs 13:10"
+    },
+    {
+      "verse": "Wealth gained hastily will dwindle, but whoever gathers little by little will increase it.",
+      "reference": "Proverbs 13:11"
+    },
+    {
+      "verse": "Whoever scorns instruction will pay for it, but whoever respects a command is rewarded.",
+      "reference": "Proverbs 13:13"
+    },
+    {
+      "verse": "The teaching of the wise is a fountain of life, turning a person from the snares of death.",
+      "reference": "Proverbs 13:14"
+    },
+    {
+      "verse": "A wicked messenger falls into trouble, but a trustworthy envoy brings healing.",
+      "reference": "Proverbs 13:17"
+    },
+    {
+      "verse": "Whoever disregards discipline comes to poverty and shame, but whoever heeds correction is honored.",
+      "reference": "Proverbs 13:18"
+    },
+    {
+      "verse": "Walk with the wise and become wise, for a companion of fools suffers harm.",
+      "reference": "Proverbs 13:20"
+    },
+    {
+      "verse": "Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.",
+      "reference": "Proverbs 13:24"
+    },
+    {
+      "verse": "The righteous eat to their hearts’ content, but the stomach of the wicked goes hungry.",
+      "reference": "Proverbs 13:25"
+    },
+    {
+      "verse": "The wise woman builds her house, but with her own hands the foolish one tears hers down.",
+      "reference": "Proverbs 14:1"
+    },
+    {
+      "verse": "Whoever fears the Lord walks uprightly, but those who despise him are devious in their ways.",
+      "reference": "Proverbs 14:2"
+    },
+    {
+      "verse": "A fool’s mouth lashes out with pride, but the lips of the wise protect them.",
+      "reference": "Proverbs 14:3"
+    },
+    {
+      "verse": "Where there are no oxen, the manger is empty, but from the strength of an ox come abundant harvests.",
+      "reference": "Proverbs 14:4"
+    },
+    {
+      "verse": "An honest witness does not deceive, but a false witness pours out lies.",
+      "reference": "Proverbs 14:5"
+    },
+    {
+      "verse": "The mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.",
+      "reference": "Proverbs 14:6"
+    },
+    {
+      "verse": "Stay away from a fool, for you will not find knowledge on their lips.",
+      "reference": "Proverbs 14:7"
+    },
+    {
+      "verse": "The wisdom of the prudent is to give thought to their ways, but the folly of fools is deception.",
+      "reference": "Proverbs 14:8"
+    },
+    {
+      "verse": "Fools mock at making amends for sin, but goodwill is found among the upright.",
+      "reference": "Proverbs 14:9"
+    },
+    {
+      "verse": "Each heart knows its own bitterness, and no one else can share its joy.",
+      "reference": "Proverbs 14:10"
+    },
+    {
+      "verse": "The house of the wicked will be destroyed, but the tent of the upright will flourish.",
+      "reference": "Proverbs 14:11"
+    },
+    {
+      "verse": "There is a way that appears to be right, but in the end it leads to death.",
+      "reference": "Proverbs 14:12"
+    },
+    {
+      "verse": "Even in laughter the heart may ache, and rejoicing may end in grief.",
+      "reference": "Proverbs 14:13"
+    },
+    {
+      "verse": "The faithless will be fully repaid for their ways, and the good rewarded for theirs.",
+      "reference": "Proverbs 14:14"
+    },
+    {
+      "verse": "The simple believe anything, but the prudent give thought to their steps.",
+      "reference": "Proverbs 14:15"
+    },
+    {
+      "verse": "The wise fear the Lord and shun evil, but a fool is hotheaded and yet feels secure.",
+      "reference": "Proverbs 14:16"
+    },
+    {
+      "verse": "A quick-tempered person does foolish things, and the one who devises evil schemes is hated.",
+      "reference": "Proverbs 14:17"
+    },
+    {
+      "verse": "The simple inherit folly, but the prudent are crowned with knowledge.",
+      "reference": "Proverbs 14:18"
+    },
+    {
+      "verse": "Evildoers will bow down in the presence of the good, and the wicked at the gates of the righteous.",
+      "reference": "Proverbs 14:19"
+    },
+    {
+      "verse": "The poor are shunned even by their neighbors, but the rich have many friends.",
+      "reference": "Proverbs 14:20"
+    },
+    {
+      "verse": "It is a sin to despise one’s neighbor, but blessed is the one who is kind to the needy.",
+      "reference": "Proverbs 14:21"
+    },
+    {
+      "verse": "Do not those who plot evil go astray? But those who plan what is good find love and faithfulness.",
+      "reference": "Proverbs 14:22"
+    },
+    {
+      "verse": "All hard work brings a profit, but mere talk leads only to poverty.",
+      "reference": "Proverbs 14:23"
+    },
+    {
+      "verse": "The wealth of the wise is their crown, but the folly of fools yields folly.",
+      "reference": "Proverbs 14:24"
+    },
+    {
+      "verse": "A truthful witness saves lives, but a false witness is deceitful.",
+      "reference": "Proverbs 14:25"
+    },
+    {
+      "verse": "Whoever fears the Lord has a secure fortress, and for their children it will be a refuge.",
+      "reference": "Proverbs 14:26"
+    },
+    {
+      "verse": "The fear of the Lord is a fountain of life, turning a person from the snares of death.",
+      "reference": "Proverbs 14:27"
+    },
+    {
+      "verse": "A large population is a king’s glory, but without subjects a prince is ruined.",
+      "reference": "Proverbs 14:28"
+    },
+    {
+      "verse": "Whoever is patient has great understanding, but one who is quick-tempered displays folly.",
+      "reference": "Proverbs 14:29"
+    },
+    {
+      "verse": "A heart at peace gives life to the body, but envy rots the bones.",
+      "reference": "Proverbs 14:30"
+    },
+    {
+      "verse": "Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honors God.",
+      "reference": "Proverbs 14:31"
+    },
+    {
+      "verse": "When calamity comes, the wicked are brought down, but even in death the righteous seek refuge in God.",
+      "reference": "Proverbs 14:32"
+    },
+    {
+      "verse": "Wisdom reposes in the heart of the discerning and even among fools she lets herself be known.",
+      "reference": "Proverbs 14:33"
+    },
+    {
+      "verse": "Righteousness exalts a nation, but sin condemns any people.",
+      "reference": "Proverbs 14:34"
+    },
+    {
+      "verse": "A king delights in a wise servant, but a shameful servant arouses his fury.",
+      "reference": "Proverbs 14:35"
+    },
+    {
+      "verse": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+      "reference": "Proverbs 15:1"
+    },
+    {
+      "verse": "The tongue of the wise adorns knowledge, but the mouth of the fool gushes folly.",
+      "reference": "Proverbs 15:2"
+    },
+    {
+      "verse": "The eyes of the Lord are everywhere, keeping watch on the wicked and the good.",
+      "reference": "Proverbs 15:3"
+    },
+    {
+      "verse": "The soothing tongue is a tree of life, but a perverse tongue crushes the spirit.",
+      "reference": "Proverbs 15:4"
+    },
+    {
+      "verse": "A fool spurns a parent’s discipline, but whoever heeds correction shows prudence.",
+      "reference": "Proverbs 15:5"
+    },
+    {
+      "verse": "The house of the righteous contains great treasure, but the income of the wicked brings ruin.",
+      "reference": "Proverbs 15:6"
+    },
+    {
+      "verse": "The lips of the wise spread knowledge, but the hearts of fools are not upright.",
+      "reference": "Proverbs 15:7"
+    },
+    {
+      "verse": "The Lord detests the sacrifice of the wicked, but the prayer of the upright pleases him.",
+      "reference": "Proverbs 15:8"
+    },
+    {
+      "verse": "The Lord detests the way of the wicked, but he loves those who pursue righteousness.",
+      "reference": "Proverbs 15:9"
+    },
+    {
+      "verse": "Stern discipline awaits anyone who leaves the path; the one who hates correction will die.",
+      "reference": "Proverbs 15:10"
+    },
+    {
+      "verse": "Death and Destruction lie open before the Lord—how much more do human hearts!",
+      "reference": "Proverbs 15:11"
+    },
+    {
+      "verse": "Mockers resent correction, so they avoid the wise.",
+      "reference": "Proverbs 15:12"
+    },
+    {
+      "verse": "A happy heart makes the face cheerful, but heartache crushes the spirit.",
+      "reference": "Proverbs 15:13"
+    },
+    {
+      "verse": "The discerning heart seeks knowledge, but the mouth of a fool feeds on folly.",
+      "reference": "Proverbs 15:14"
+    },
+    {
+      "verse": "All the days of the oppressed are wretched, but the cheerful heart has a continual feast.",
+      "reference": "Proverbs 15:15"
+    },
+    {
+      "verse": "Better a little with the fear of the Lord than great wealth with turmoil.",
+      "reference": "Proverbs 15:16"
+    },
+    {
+      "verse": "Better a small serving of vegetables with love than a fattened calf with hatred.",
+      "reference": "Proverbs 15:17"
+    },
+    {
+      "verse": "A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.",
+      "reference": "Proverbs 15:18"
+    },
+    {
+      "verse": "The way of the sluggard is blocked with thorns, but the path of the upright is a highway.",
+      "reference": "Proverbs 15:19"
+    },
+    {
+      "verse": "A wise son brings joy to his father, but a foolish man despises his mother.",
+      "reference": "Proverbs 15:20"
+    },
+    {
+      "verse": "Folly brings joy to one who has no sense, but whoever has understanding keeps a straight course.",
+      "reference": "Proverbs 15:21"
+    },
+    {
+      "verse": "Plans fail for lack of counsel, but with many advisers they succeed.",
+      "reference": "Proverbs 15:22"
+    },
+    {
+      "verse": "A person finds joy in giving an apt reply—and how good is a timely word!",
+      "reference": "Proverbs 15:23"
+    },
+    {
+      "verse": "The path of life leads upward for the prudent to keep them from going down to the realm of the dead.",
+      "reference": "Proverbs 15:24"
+    },
+    {
+      "verse": "The Lord tears down the house of the proud, but he sets the widow’s boundary stones in place.",
+      "reference": "Proverbs 15:25"
+    },
+    {
+      "verse": "The Lord detests the thoughts of the wicked, but gracious words are pure in his sight.",
+      "reference": "Proverbs 15:26"
+    },
+    {
+      "verse": "The greedy bring ruin to their households, but the one who hates bribes will live.",
+      "reference": "Proverbs 15:27"
+    },
+    {
+      "verse": "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil.",
+      "reference": "Proverbs 15:28"
+    },
+    {
+      "verse": "The Lord is far from the wicked, but he hears the prayer of the righteous.",
+      "reference": "Proverbs 15:29"
+    },
+    {
+      "verse": "Light in a messenger’s eyes brings joy to the heart, and good news gives health to the bones.",
+      "reference": "Proverbs 15:30"
+    },
+    {
+      "verse": "Whoever heeds life-giving correction will be at home among the wise.",
+      "reference": "Proverbs 15:31"
+    },
+    {
+      "verse": "Those who disregard discipline despise themselves, but the one who heeds correction gains understanding.",
+      "reference": "Proverbs 15:32"
+    },
+    {
+      "verse": "Wisdom’s instruction is to fear the Lord, and humility comes before honor.",
+      "reference": "Proverbs 15:33"
+    },
+    {
+      "verse": "To humans belong the plans of the heart, but from the Lord comes the proper answer of the tongue.",
+      "reference": "Proverbs 16:1"
+    },
+    {
+      "verse": "All a person’s ways seem pure to them, but motives are weighed by the Lord.",
+      "reference": "Proverbs 16:2"
+    },
+    {
+      "verse": "Commit to the Lord whatever you do, and he will establish your plans.",
+      "reference": "Proverbs 16:3"
+    },
+    {
+      "verse": "The Lord works out everything to its proper end—even the wicked for a day of disaster.",
+      "reference": "Proverbs 16:4"
+    },
+    {
+      "verse": "The Lord detests all the proud of heart. Be sure of this: They will not go unpunished.",
+      "reference": "Proverbs 16:5"
+    },
+    {
+      "verse": "Through love and faithfulness sin is atoned for; through the fear of the Lord evil is avoided.",
+      "reference": "Proverbs 16:6"
+    },
+    {
+      "verse": "When the Lord takes pleasure in anyone’s way, he causes their enemies to make peace with them.",
+      "reference": "Proverbs 16:7"
+    },
+    {
+      "verse": "Better a little with righteousness than much gain with injustice.",
+      "reference": "Proverbs 16:8"
+    },
+    {
+      "verse": "In their hearts humans plan their course, but the Lord establishes their steps.",
+      "reference": "Proverbs 16:9"
+    },
+    {
+      "verse": "The lips of a king speak as an oracle, and his mouth does not betray justice.",
+      "reference": "Proverbs 16:10"
+    },
+    {
+      "verse": "Honest scales and balances belong to the Lord; all the weights in the bag are of his making.",
+      "reference": "Proverbs 16:11"
+    },
+    {
+      "verse": "Kings detest wrongdoing, for a throne is established through righteousness.",
+      "reference": "Proverbs 16:12"
+    },
+    {
+      "verse": "Kings take pleasure in honest lips; they value the one who speaks what is right.",
+      "reference": "Proverbs 16:13"
+    },
+    {
+      "verse": "A king’s wrath is a messenger of death, but the wise will appease it.",
+      "reference": "Proverbs 16:14"
+    },
+    {
+      "verse": "When a king’s face brightens, it means life; his favor is like a rain cloud in spring.",
+      "reference": "Proverbs 16:15"
+    },
+    {
+      "verse": "How much better to get wisdom than gold, to get insight rather than silver!",
+      "reference": "Proverbs 16:16"
+    },
+    {
+      "verse": "The highway of the upright avoids evil; those who guard their ways preserve their lives.",
+      "reference": "Proverbs 16:17"
+    },
+    {
+      "verse": "Pride goes before destruction, a haughty spirit before a fall.",
+      "reference": "Proverbs 16:18"
+    },
+    {
+      "verse": "Better to be lowly in spirit along with the oppressed than to share plunder with the proud.",
+      "reference": "Proverbs 16:19"
+    },
+    {
+      "verse": "Whoever gives heed to instruction prospers, and blessed is the one who trusts in the Lord.",
+      "reference": "Proverbs 16:20"
+    },
+    {
+      "verse": "The wise in heart are called discerning, and gracious words promote instruction.",
+      "reference": "Proverbs 16:21"
+    },
+    {
+      "verse": "Prudence is a fountain of life to the prudent, but folly brings punishment to fools.",
+      "reference": "Proverbs 16:22"
+    },
+    {
+      "verse": "The hearts of the wise make their mouths prudent, and their lips promote instruction.",
+      "reference": "Proverbs 16:23"
+    },
+    {
+      "verse": "Gracious words are a honeycomb, sweet to the soul and healing to the bones.",
+      "reference": "Proverbs 16:24"
+    },
+    {
+      "verse": "There is a way that appears to be right, but in the end it leads to death.",
+      "reference": "Proverbs 16:25"
+    },
+    {
+      "verse": "The appetite of laborers works for them; their hunger drives them on.",
+      "reference": "Proverbs 16:26"
+    },
+    {
+      "verse": "A scoundrel plots evil, and on their lips it is like a scorching fire.",
+      "reference": "Proverbs 16:27"
+    },
+    {
+      "verse": "A perverse person stirs up conflict, and a gossip separates close friends.",
+      "reference": "Proverbs 16:28"
+    },
+    {
+      "verse": "A violent person entices their neighbor and leads them down a path that is not good.",
+      "reference": "Proverbs 16:29"
+    },
+    {
+      "verse": "Whoever winks with their eye is plotting perversity; whoever purses their lips is bent on evil.",
+      "reference": "Proverbs 16:30"
+    },
+    {
+      "verse": "Gray hair is a crown of splendor; it is attained in the way of righteousness.",
+      "reference": "Proverbs 16:31"
+    },
+    {
+      "verse": "Better a patient person than a warrior, one with self-control than one who takes a city.",
+      "reference": "Proverbs 16:32"
+    },
+    {
+      "verse": "The lot is cast into the lap, but its every decision is from the Lord.",
+      "reference": "Proverbs 16:33"
+    },
+    {
+      "verse": "Better a dry crust with peace and quiet than a house full of feasting, with strife.",
+      "reference": "Proverbs 17:1"
+    },
+    {
+      "verse": "A prudent servant will rule over a disgraceful son and will share the inheritance as one of the family.",
+      "reference": "Proverbs 17:2"
+    },
+    {
+      "verse": "The crucible for silver and the furnace for gold, but the Lord tests the heart.",
+      "reference": "Proverbs 17:3"
+    },
+    {
+      "verse": "A wicked person listens to deceitful lips; a liar pays attention to a destructive tongue.",
+      "reference": "Proverbs 17:4"
+    },
+    {
+      "verse": "Whoever mocks the poor shows contempt for their Maker; whoever gloats over disaster will not go unpunished.",
+      "reference": "Proverbs 17:5"
+    },
+    {
+      "verse": "Children’s children are a crown to the aged, and parents are the pride of their children.",
+      "reference": "Proverbs 17:6"
+    },
+    {
+      "verse": "Eloquent lips are unsuited to a godless fool—how much worse lying lips to a ruler!",
+      "reference": "Proverbs 17:7"
+    },
+    {
+      "verse": "A bribe is seen as a charm by the one who gives it; they think success will come at every turn.",
+      "reference": "Proverbs 17:8"
+    },
+    {
+      "verse": "Whoever would foster love covers over an offense, but whoever repeats the matter separates close friends.",
+      "reference": "Proverbs 17:9"
+    }
+
+]
+},
+  "error": []
+}
+
+
+
+

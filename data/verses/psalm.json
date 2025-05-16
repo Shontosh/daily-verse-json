@@ -1,0 +1,593 @@
+
+{
+  "status": "success",
+  "message": "homepage data",
+  "meta": {},
+  "data":
+{
+  "category": "Psalms",
+  "verses": [
+    {
+      "verse": "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers.",
+      "reference": "Psalm 1:1"
+    },
+    {
+      "verse": "But his delight is in the law of the Lord, and on his law he meditates day and night.",
+      "reference": "Psalm 1:2"
+    },
+    {
+      "verse": "He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither.",
+      "reference": "Psalm 1:3"
+    },
+    {
+      "verse": "The wicked are not so, but are like chaff that the wind drives away.",
+      "reference": "Psalm 1:4"
+    },
+    {
+      "verse": "Why do the nations rage and the peoples plot in vain?",
+      "reference": "Psalm 2:1"
+    },
+    {
+      "verse": "The kings of the earth set themselves, and the rulers take counsel together, against the Lord and against his Anointed.",
+      "reference": "Psalm 2:2"
+    },
+    {
+      "verse": "Serve the Lord with fear, and rejoice with trembling.",
+      "reference": "Psalm 2:11"
+    },
+    {
+      "verse": "O Lord, how many are my foes! Many are rising against me.",
+      "reference": "Psalm 3:1"
+    },
+    {
+      "verse": "But you, O Lord, are a shield about me, my glory, and the lifter of my head.",
+      "reference": "Psalm 3:3"
+    },
+    {
+      "verse": "I lay down and slept; I woke again, for the Lord sustained me.",
+      "reference": "Psalm 3:5"
+    },
+    {
+      "verse": "Answer me when I call, O God of my righteousness!",
+      "reference": "Psalm 4:1"
+    },
+    {
+      "verse": "Be angry, and do not sin; ponder in your own hearts on your beds, and be silent.",
+      "reference": "Psalm 4:4"
+    },
+    {
+      "verse": "You have put more joy in my heart than they have when their grain and wine abound.",
+      "reference": "Psalm 4:7"
+    },
+    {
+      "verse": "In peace I will both lie down and sleep; for you alone, O Lord, make me dwell in safety.",
+      "reference": "Psalm 4:8"
+    },
+    {
+      "verse": "Give ear to my words, O Lord; consider my groaning.",
+      "reference": "Psalm 5:1"
+    },
+    {
+      "verse": "For you are not a God who delights in wickedness; evil may not dwell with you.",
+      "reference": "Psalm 5:4"
+    },
+    {
+      "verse": "But I, through the abundance of your steadfast love, will enter your house.",
+      "reference": "Psalm 5:7"
+    },
+    {
+      "verse": "Lead me, O Lord, in your righteousness because of my enemies; make your way straight before me.",
+      "reference": "Psalm 5:8"
+    },
+    {
+      "verse": "O Lord, do not rebuke me in your anger, nor discipline me in your wrath.",
+      "reference": "Psalm 6:1"
+    },
+    {
+      "verse": "Be gracious to me, O Lord, for I am languishing; heal me, O Lord, for my bones are troubled.",
+      "reference": "Psalm 6:2"
+    },
+    {
+      "verse": "Depart from me, all you workers of evil, for the Lord has heard the sound of my weeping.",
+      "reference": "Psalm 6:8"
+    },
+    {
+      "verse": "O Lord my God, in you do I take refuge; save me from all my pursuers and deliver me.",
+      "reference": "Psalm 7:1"
+    },
+    {
+      "verse": "The Lord judges the peoples; judge me, O Lord, according to my righteousness and according to the integrity that is in me.",
+      "reference": "Psalm 7:8"
+    },
+    {
+      "verse": "I will give to the Lord the thanks due to his righteousness, and I will sing praise to the name of the Lord, the Most High.",
+      "reference": "Psalm 7:17"
+    },
+    {
+      "verse": "O Lord, our Lord, how majestic is your name in all the earth!",
+      "reference": "Psalm 8:1"
+    },
+    {
+      "verse": "When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place...",
+      "reference": "Psalm 8:3"
+    },
+    {
+      "verse": "What is man that you are mindful of him, and the son of man that you care for him?",
+      "reference": "Psalm 8:4"
+    },
+    {
+      "verse": "You have made him a little lower than the heavenly beings and crowned him with glory and honor.",
+      "reference": "Psalm 8:5"
+    },
+    {
+      "verse": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+      "reference": "Psalm 9:1"
+    },
+    {
+      "verse": "The Lord is a stronghold for the oppressed, a stronghold in times of trouble.",
+      "reference": "Psalm 9:9"
+    },
+    {
+      "verse": "For the needy shall not always be forgotten, and the hope of the poor shall not perish forever.",
+      "reference": "Psalm 9:18"
+    },
+    {
+      "verse": "Why, O Lord, do you stand far away? Why do you hide yourself in times of trouble?",
+      "reference": "Psalm 10:1"
+    },
+    {
+      "verse": "The Lord is king forever and ever; the nations perish from his land.",
+      "reference": "Psalm 10:16"
+    },
+    {
+      "verse": "In the Lord I take refuge; how can you say to my soul, 'Flee like a bird to your mountain'?",
+      "reference": "Psalm 11:1"
+    },
+    {
+      "verse": "The Lord is in his holy temple; the Lord's throne is in heaven.",
+      "reference": "Psalm 11:4"
+    },
+    {
+      "verse": "For the Lord is righteous; he loves righteous deeds; the upright shall behold his face.",
+      "reference": "Psalm 11:7"
+    },
+    {
+      "verse": "Save, O Lord, for the godly one is gone; for the faithful have vanished from among the children of man.",
+      "reference": "Psalm 12:1"
+    },
+    {
+      "verse": "The words of the Lord are pure words, like silver refined in a furnace on the ground, purified seven times.",
+      "reference": "Psalm 12:6"
+    },
+    {
+      "verse": "How long, O Lord? Will you forget me forever? How long will you hide your face from me?",
+      "reference": "Psalm 13:1"
+    },
+    {
+      "verse": "But I have trusted in your steadfast love; my heart shall rejoice in your salvation.",
+      "reference": "Psalm 13:5"
+    },
+    {
+      "verse": "The fool says in his heart, 'There is no God.'",
+      "reference": "Psalm 14:1"
+    },
+    {
+      "verse": "The Lord looks down from heaven on the children of man, to see if there are any who understand, who seek after God.",
+      "reference": "Psalm 14:2"
+    },
+    {
+      "verse": "Oh, that salvation for Israel would come out of Zion! When the Lord restores the fortunes of his people, let Jacob rejoice, let Israel be glad.",
+      "reference": "Psalm 14:7"
+    },
+    {
+      "verse": "O Lord, who shall sojourn in your tent? Who shall dwell on your holy hill?",
+      "reference": "Psalm 15:1"
+    },
+    {
+      "verse": "He who walks blamelessly and does what is right and speaks truth in his heart.",
+      "reference": "Psalm 15:2"
+    },
+    {
+      "verse": "Preserve me, O God, for in you I take refuge.",
+      "reference": "Psalm 16:1"
+    },
+    {
+      "verse": "I say to the Lord, 'You are my Lord; I have no good apart from you.'",
+      "reference": "Psalm 16:2"
+    },
+    {
+      "verse": "The Lord is my chosen portion and my cup; you hold my lot.",
+      "reference": "Psalm 16:5"
+    },
+    {
+      "verse": "I have set the Lord always before me; because he is at my right hand, I shall not be shaken.",
+      "reference": "Psalm 16:8"
+    },
+    {
+      "verse": "You make known to me the path of life; in your presence there is fullness of joy; at your right hand are pleasures forevermore.",
+      "reference": "Psalm 16:11"
+    },
+    {
+      "verse": "Hear a just cause, O Lord; attend to my cry! Give ear to my prayer from lips free of deceit!",
+      "reference": "Psalm 17:1"
+    },
+    {
+      "verse": "Keep me as the apple of your eye; hide me in the shadow of your wings.",
+      "reference": "Psalm 17:8"
+    },
+    {
+      "verse": "As for me, I shall behold your face in righteousness; when I awake, I shall be satisfied with your likeness.",
+      "reference": "Psalm 17:15"
+    },
+    {
+      "verse": "I love you, O Lord, my strength.",
+      "reference": "Psalm 18:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "In my distress I called upon the Lord; to my God I cried for help.",
+      "reference": "Psalm 18:6"
+    },
+    {
+      "verse": "He made darkness his covering, his canopy around him, thick clouds dark with water.",
+      "reference": "Psalm 18:11"
+    },
+    {
+      "verse": "The Lord lives, and blessed be my rock, and exalted be the God of my salvation.",
+      "reference": "Psalm 18:46"
+    },
+    {
+      "verse": "The heavens declare the glory of God, and the sky above proclaims his handiwork.",
+      "reference": "Psalm 19:1"
+    },
+    {
+      "verse": "The law of the Lord is perfect, reviving the soul; the testimony of the Lord is sure, making wise the simple.",
+      "reference": "Psalm 19:7"
+    },
+    {
+      "verse": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my rock and my redeemer.",
+      "reference": "Psalm 19:14"
+    },
+    {
+      "verse": "May the Lord answer you in the day of trouble! May the name of the God of Jacob protect you!",
+      "reference": "Psalm 20:1"
+    },
+    {
+      "verse": "Some trust in chariots and some in horses, but we trust in the name of the Lord our God.",
+      "reference": "Psalm 20:7"
+    },
+    {
+      "verse": "The king rejoices in your strength, O Lord, and in your salvation how greatly he exults!",
+      "reference": "Psalm 21:1"
+    },
+    {
+      "verse": "Be exalted, O Lord, in your strength! We will sing and praise your power.",
+      "reference": "Psalm 21:13"
+    },
+    {
+      "verse": "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?",
+      "reference": "Psalm 22:1"
+    },
+    {
+      "verse": "But you are holy, enthroned on the praises of Israel.",
+      "reference": "Psalm 22:3"
+    },
+    {
+      "verse": "All the ends of the earth shall remember and turn to the Lord, and all the families of the nations shall worship before you.",
+      "reference": "Psalm 22:27"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "He makes me lie down in green pastures. He leads me beside still waters.",
+      "reference": "Psalm 23:2"
+    },
+    {
+      "verse": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+      "reference": "Psalm 23:4"
+    },
+    {
+      "verse": "Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.",
+      "reference": "Psalm 23:6"
+    },
+    {
+      "verse": "The earth is the Lord's and the fullness thereof, the world and those who dwell therein.",
+      "reference": "Psalm 24:1"
+    },
+    {
+      "verse": "Who shall ascend the hill of the Lord? And who shall stand in his holy place?",
+      "reference": "Psalm 24:3"
+    },
+    {
+      "verse": "He who has clean hands and a pure heart, who does not lift up his soul to what is false and does not swear deceitfully.",
+      "reference": "Psalm 24:4"
+    },
+    {
+      "verse": "Lift up your heads, O gates! And be lifted up, O ancient doors, that the King of glory may come in.",
+      "reference": "Psalm 24:7"
+    },
+    {
+      "verse": "To you, O Lord, I lift up my soul.",
+      "reference": "Psalm 25:1"
+    },
+    {
+      "verse": "Make me to know your ways, O Lord; teach me your paths.",
+      "reference": "Psalm 25:4"
+    },
+    {
+      "verse": "Remember not the sins of my youth or my transgressions; according to your steadfast love remember me, for the sake of your goodness, O Lord.",
+      "reference": "Psalm 25:7"
+    },
+    {
+      "verse": "Good and upright is the Lord; therefore he instructs sinners in the way.",
+      "reference": "Psalm 25:8"
+    },
+    {
+      "verse": "All the paths of the Lord are steadfast love and faithfulness, for those who keep his covenant and his testimonies.",
+      "reference": "Psalm 25:10"
+    },
+    {
+      "verse": "Vindicate me, O Lord, for I have walked in my integrity, and I have trusted in the Lord without wavering.",
+      "reference": "Psalm 26:1"
+    },
+    {
+      "verse": "I wash my hands in innocence and go around your altar, O Lord.",
+      "reference": "Psalm 26:6"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "One thing have I asked of the Lord, that will I seek after: that I may dwell in the house of the Lord all the days of my life.",
+      "reference": "Psalm 27:4"
+    },
+    {
+      "verse": "Wait for the Lord; be strong, and let your heart take courage; wait for the Lord!",
+      "reference": "Psalm 27:14"
+    },
+    {
+      "verse": "To you, O Lord, I call; my rock, be not deaf to me.",
+      "reference": "Psalm 28:1"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "Ascribe to the Lord, O heavenly beings, ascribe to the Lord glory and strength.",
+      "reference": "Psalm 29:1"
+    },
+    {
+      "verse": "The voice of the Lord is over the waters; the God of glory thunders, the Lord, over many waters.",
+      "reference": "Psalm 29:3"
+    },
+    {
+      "verse": "The Lord sits enthroned over the flood; the Lord sits enthroned as king forever.",
+      "reference": "Psalm 29:10"
+    },
+    {
+      "verse": "I will extol you, O Lord, for you have drawn me up and have not let my foes rejoice over me.",
+      "reference": "Psalm 30:1"
+    },
+    {
+      "verse": "O Lord my God, I cried to you for help, and you have healed me.",
+      "reference": "Psalm 30:2"
+    },
+    {
+      "verse": "Weeping may tarry for the night, but joy comes with the morning.",
+      "reference": "Psalm 30:5"
+    },
+    {
+      "verse": "You have turned for me my mourning into dancing; you have loosed my sackcloth and clothed me with gladness.",
+      "reference": "Psalm 30:11"
+    },
+    {
+      "verse": "In you, O Lord, do I take refuge; let me never be put to shame; in your righteousness deliver me!",
+      "reference": "Psalm 31:1"
+    },
+    {
+      "verse": "Into your hand I commit my spirit; you have redeemed me, O Lord, faithful God.",
+      "reference": "Psalm 31:5"
+    },
+    {
+      "verse": "Be strong, and let your heart take courage, all you who wait for the Lord!",
+      "reference": "Psalm 31:24"
+    },
+    {
+      "verse": "Blessed is the one whose transgression is forgiven, whose sin is covered.",
+      "reference": "Psalm 32:1"
+    },
+    {
+      "verse": "I acknowledged my sin to you, and I did not cover my iniquity; I said, 'I will confess my transgressions to the Lord,' and you forgave the iniquity of my sin.",
+      "reference": "Psalm 32:5"
+    },
+    {
+      "verse": "You are a hiding place for me; you preserve me from trouble; you surround me with shouts of deliverance.",
+      "reference": "Psalm 32:7"
+    },
+    {
+      "verse": "Rejoice in the Lord, O you righteous, and give thanks to his holy name!",
+      "reference": "Psalm 97:12"
+    },
+    {
+      "verse": "Oh sing to the Lord a new song, for he has done marvelous things!",
+      "reference": "Psalm 98:1"
+    },
+    {
+      "verse": "The Lord has made known his salvation; he has revealed his righteousness in the sight of the nations.",
+      "reference": "Psalm 98:2"
+    },
+    {
+      "verse": "Make a joyful noise to the Lord, all the earth; break forth into joyous song and sing praises!",
+      "reference": "Psalm 98:4"
+    },
+    {
+      "verse": "The Lord reigns; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!",
+      "reference": "Psalm 99:1"
+    },
+    {
+      "verse": "Exalt the Lord our God, and worship at his holy mountain; for the Lord our God is holy!",
+      "reference": "Psalm 99:9"
+    },
+    {
+      "verse": "Make a joyful noise to the Lord, all the earth!",
+      "reference": "Psalm 100:1"
+    },
+    {
+      "verse": "Know that the Lord, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture.",
+      "reference": "Psalm 100:3"
+    },
+    {
+      "verse": "Enter his gates with thanksgiving, and his courts with praise! Give thanks to him; bless his name!",
+      "reference": "Psalm 100:4"
+    },
+    {
+      "verse": "I will sing of steadfast love and justice; to you, O Lord, I will make music.",
+      "reference": "Psalm 101:1"
+    },
+    {
+      "verse": "Hear my prayer, O Lord; let my cry come to you!",
+      "reference": "Psalm 102:1"
+    },
+    {
+      "verse": "But you, O Lord, are enthroned forever; you are remembered throughout all generations.",
+      "reference": "Psalm 102:12"
+    },
+    {
+      "verse": "Bless the Lord, O my soul, and all that is within me, bless his holy name!",
+      "reference": "Psalm 103:1"
+    },
+    {
+      "verse": "Bless the Lord, O my soul, and forget not all his benefits.",
+      "reference": "Psalm 103:2"
+    },
+    {
+      "verse": "Who forgives all your iniquity, who heals all your diseases.",
+      "reference": "Psalm 103:3"
+    },
+    {
+      "verse": "The Lord is merciful and gracious, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 103:8"
+    },
+    {
+      "verse": "As far as the east is from the west, so far does he remove our transgressions from us.",
+      "reference": "Psalm 103:12"
+    },
+    {
+      "verse": "Bless the Lord, all his works, in all places of his dominion. Bless the Lord, O my soul!",
+      "reference": "Psalm 103:22"
+    },
+    {
+      "verse": "O Lord my God, you are very great! You are clothed with splendor and majesty.",
+      "reference": "Psalm 104:1"
+    },
+    {
+      "verse": "When you send forth your Spirit, they are created, and you renew the face of the ground.",
+      "reference": "Psalm 104:30"
+    },
+    {
+      "verse": "Give thanks to the Lord, for he is good; his steadfast love endures forever!",
+      "reference": "Psalm 106:1"
+    },
+    {
+      "verse": "Then they cried to the Lord in their trouble, and he delivered them from their distress.",
+      "reference": "Psalm 107:6"
+    },
+    {
+      "verse": "Oh give thanks to the Lord, for he is good, for his steadfast love endures forever!",
+      "reference": "Psalm 107:1"
+    },
+    {
+      "verse": "With my whole heart I will praise you, O Lord my God, and give thanks to your name forever.",
+      "reference": "Psalm 86:12"
+    },
+    {
+      "verse": "Teach me your way, O Lord, that I may walk in your truth; unite my heart to fear your name.",
+      "reference": "Psalm 86:11"
+    },
+    {
+      "verse": "Great is the Lord, and greatly to be praised, and his greatness is unsearchable.",
+      "reference": "Psalm 145:3"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord upholds all who are falling and raises up all who are bowed down.",
+      "reference": "Psalm 145:14"
+    },
+    {
+      "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "My mouth will speak the praise of the Lord, and let all flesh bless his holy name forever and ever.",
+      "reference": "Psalm 145:21"
+    },
+    {
+      "verse": "Praise the Lord! Praise the Lord, O my soul!",
+      "reference": "Psalm 146:1"
+    },
+    {
+      "verse": "Put not your trust in princes, in a son of man, in whom there is no salvation.",
+      "reference": "Psalm 146:3"
+    },
+    {
+      "verse": "Blessed is he whose help is the God of Jacob, whose hope is in the Lord his God.",
+      "reference": "Psalm 146:5"
+    },
+    {
+      "verse": "The Lord sets the prisoners free; the Lord opens the eyes of the blind.",
+      "reference": "Psalm 146:7-8"
+    },
+    {
+      "verse": "Praise the Lord! For it is good to sing praises to our God; for it is pleasant, and a song of praise is fitting.",
+      "reference": "Psalm 147:1"
+    },
+    {
+      "verse": "He heals the brokenhearted and binds up their wounds.",
+      "reference": "Psalm 147:3"
+    },
+    {
+      "verse": "Great is our Lord, and abundant in power; his understanding is beyond measure.",
+      "reference": "Psalm 147:5"
+    },
+    {
+      "verse": "Praise the Lord! Praise the Lord from the heavens; praise him in the heights!",
+      "reference": "Psalm 148:1"
+    },
+    {
+      "verse": "Let them praise the name of the Lord! For he commanded and they were created.",
+      "reference": "Psalm 148:5"
+    },
+    {
+      "verse": "Praise the Lord from the earth, you great sea creatures and all deeps.",
+      "reference": "Psalm 148:7"
+    },
+    {
+      "verse": "Praise the Lord! Sing to the Lord a new song, his praise in the assembly of the godly!",
+      "reference": "Psalm 149:1"
+    },
+    {
+      "verse": "Let the children of Zion be joyful in their King!",
+      "reference": "Psalm 149:2"
+    },
+    {
+      "verse": "Let everything that has breath praise the Lord! Praise the Lord!",
+      "reference": "Psalm 150:6"
+    }
+  ]
+},
+  "error": []
+}
+
+
+
+

@@ -1,0 +1,737 @@
+
+{
+  "status": "success",
+  "message": "homepage data",
+  "meta": {},
+  "data":{
+  "category": "Faith",
+  "verses": [
+    {
+      "verse": "Now faith is the assurance of things hoped for, the conviction of things not seen.",
+      "reference": "Hebrews 11:1"
+    },
+    {
+      "verse": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.",
+      "reference": "Ephesians 2:8"
+    },
+    {
+      "verse": "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.",
+      "reference": "Hebrews 11:6"
+    },
+    {
+      "verse": "For we walk by faith, not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "Jesus said to him, 'If you can believe, all things are possible to him who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "Trust in the Lord with all your heart, and do not lean on your own understanding.",
+      "reference": "Proverbs 3:5"
+    },
+    {
+      "verse": "So faith comes from hearing, and hearing through the word of Christ.",
+      "reference": "Romans 10:17"
+    },
+    {
+      "verse": "I can do all things through him who strengthens me.",
+      "reference": "Philippians 4:13"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, ‘Be taken up and thrown into the sea,’ it will happen.'",
+      "reference": "Matthew 21:21"
+    },
+    {
+      "verse": "The righteous shall live by faith.",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And whatever you ask in prayer, you will receive, if you have faith.",
+      "reference": "Matthew 21:22"
+    },
+    {
+      "verse": "For nothing will be impossible with God.",
+      "reference": "Luke 1:37"
+    },
+    {
+      "verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called.",
+      "reference": "1 Timothy 6:12"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For in it the righteousness of God is revealed from faith for faith, as it is written, 'The righteous shall live by faith.'",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And he said to the woman, 'Your faith has saved you; go in peace.'",
+      "reference": "Luke 7:50"
+    },
+    {
+      "verse": "For by faith we live, and not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "And the apostles said to the Lord, 'Increase our faith!'",
+      "reference": "Luke 17:5"
+    },
+    {
+      "verse": "But you, O man of God, flee these things and pursue righteousness, godliness, faith, love, patience, gentleness.",
+      "reference": "1 Timothy 6:11"
+    },
+    {
+      "verse": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "reference": "John 3:16"
+    },
+    {
+      "verse": "And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.",
+      "reference": "Ephesians 2:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can! All things are possible for one who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "For the Scripture says, 'Everyone who believes in him will not be put to shame.'",
+      "reference": "Romans 10:11"
+    },
+    {
+      "verse": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness.",
+      "reference": "Galatians 5:22"
+    },
+    {
+      "verse": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes.",
+      "reference": "Romans 1:16"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.'",
+      "reference": "Matthew 17:20"
+    },
+    {
+      "verse": "For we hold that one is justified by faith apart from works of the law.",
+      "reference": "Romans 3:28"
+    },
+    {
+      "verse": "And he said to them, 'Why are you so afraid? Have you still no faith?'",
+      "reference": "Mark 4:40"
+    },
+    {
+      "verse": "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.",
+      "reference": "Hebrews 11:6"
+    },
+    {
+      "verse": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.",
+      "reference": "Ephesians 2:8"
+    },
+    {
+      "verse": "But the Lord is faithful. He will establish you and guard you against the evil one.",
+      "reference": "2 Thessalonians 3:3"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.",
+      "reference": "Galatians 5:6"
+    },
+    {
+      "verse": "And Jesus said to the centurion, 'Go; let it be done for you as you have believed.' And the servant was healed at that very moment.",
+      "reference": "Matthew 8:13"
+    },
+    {
+      "verse": "But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit.",
+      "reference": "Jude 1:20"
+    },
+    {
+      "verse": "And he said to her, 'Daughter, your faith has made you well; go in peace, and be healed of your disease.'",
+      "reference": "Mark 5:34"
+    },
+    {
+      "verse": "For by faith the people of old received their commendation.",
+      "reference": "Hebrews 11:2"
+    },
+    {
+      "verse": "And Jesus, aware of this, said to them, 'Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?'",
+      "reference": "Mark 8:17"
+    },
+    {
+      "verse": "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs.",
+      "reference": "1 Timothy 6:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "For we walk by faith, not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can believe, all things are possible to him who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, ‘Be taken up and thrown into the sea,’ it will happen.'",
+      "reference": "Matthew 21:21"
+    },
+    {
+      "verse": "The righteous shall live by faith.",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And whatever you ask in prayer, you will receive, if you have faith.",
+      "reference": "Matthew 21:22"
+    },
+    {
+      "verse": "For nothing will be impossible with God.",
+      "reference": "Luke 1:37"
+    },
+    {
+      "verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called.",
+      "reference": "1 Timothy 6:12"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For in it the righteousness of God is revealed from faith for faith, as it is written, 'The righteous shall live by faith.'",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And he said to the woman, 'Your faith has saved you; go in peace.'",
+      "reference": "Luke 7:50"
+    },
+    {
+      "verse": "For by faith we live, and not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "And the apostles said to the Lord, 'Increase our faith!'",
+      "reference": "Luke 17:5"
+    },
+    {
+      "verse": "But you, O man of God, flee these things and pursue righteousness, godliness, faith, love, patience, gentleness.",
+      "reference": "1 Timothy 6:11"
+    },
+    {
+      "verse": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "reference": "John 3:16"
+    },
+    {
+      "verse": "And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.",
+      "reference": "Ephesians 2:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can! All things are possible for one who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "For the Scripture says, 'Everyone who believes in him will not be put to shame.'",
+      "reference": "Romans 10:11"
+    },
+    {
+      "verse": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness.",
+      "reference": "Galatians 5:22"
+    },
+    {
+      "verse": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes.",
+      "reference": "Romans 1:16"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.'",
+      "reference": "Matthew 17:20"
+    },
+    {
+      "verse": "For we hold that one is justified by faith apart from works of the law.",
+      "reference": "Romans 3:28"
+    },
+    {
+      "verse": "And he said to them, 'Why are you so afraid? Have you still no faith?'",
+      "reference": "Mark 4:40"
+    },
+    {
+      "verse": "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.",
+      "reference": "Hebrews 11:6"
+    },
+    {
+      "verse": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.",
+      "reference": "Ephesians 2:8"
+    },
+    {
+      "verse": "But the Lord is faithful. He will establish you and guard you against the evil one.",
+      "reference": "2 Thessalonians 3:3"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.",
+      "reference": "Galatians 5:6"
+    },
+    {
+      "verse": "And Jesus said to the centurion, 'Go; let it be done for you as you have believed.' And the servant was healed at that very moment.",
+      "reference": "Matthew 8:13"
+    },
+    {
+      "verse": "But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit.",
+      "reference": "Jude 1:20"
+    },
+    {
+      "verse": "And he said to her, 'Daughter, your faith has made you well; go in peace, and be healed of your disease.'",
+      "reference": "Mark 5:34"
+    },
+    {
+      "verse": "For by faith the people of old received their commendation.",
+      "reference": "Hebrews 11:2"
+    },
+    {
+      "verse": "And Jesus, aware of this, said to them, 'Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?'",
+      "reference": "Mark 8:17"
+    },
+    {
+      "verse": "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs.",
+      "reference": "1 Timothy 6:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "For we walk by faith, not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can believe, all things are possible to him who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, ‘Be taken up and thrown into the sea,’ it will happen.'",
+      "reference": "Matthew 21:21"
+    },
+    {
+      "verse": "The righteous shall live by faith.",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And whatever you ask in prayer, you will receive, if you have faith.",
+      "reference": "Matthew 21:22"
+    },
+    {
+      "verse": "For nothing will be impossible with God.",
+      "reference": "Luke 1:37"
+    },
+    {
+      "verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called.",
+      "reference": "1 Timothy 6:12"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For in it the righteousness of God is revealed from faith for faith, as it is written, 'The righteous shall live by faith.'",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And he said to the woman, 'Your faith has saved you; go in peace.'",
+      "reference": "Luke 7:50"
+    },
+    {
+      "verse": "For by faith we live, and not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "And the apostles said to the Lord, 'Increase our faith!'",
+      "reference": "Luke 17:5"
+    },
+    {
+      "verse": "But you, O man of God, flee these things and pursue righteousness, godliness, faith, love, patience, gentleness.",
+      "reference": "1 Timothy 6:11"
+    },
+    {
+      "verse": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "reference": "John 3:16"
+    },
+    {
+      "verse": "And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.",
+      "reference": "Ephesians 2:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can! All things are possible for one who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "For the Scripture says, 'Everyone who believes in him will not be put to shame.'",
+      "reference": "Romans 10:11"
+    },
+    {
+      "verse": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness.",
+      "reference": "Galatians 5:22"
+    },
+    {
+      "verse": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes.",
+      "reference": "Romans 1:16"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.'",
+      "reference": "Matthew 17:20"
+    },
+    {
+      "verse": "For we hold that one is justified by faith apart from works of the law.",
+      "reference": "Romans 3:28"
+    },
+    {
+      "verse": "And he said to them, 'Why are you so afraid? Have you still no faith?'",
+      "reference": "Mark 4:40"
+    },
+    {
+      "verse": "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.",
+      "reference": "Hebrews 11:6"
+    },
+    {
+      "verse": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.",
+      "reference": "Ephesians 2:8"
+    },
+    {
+      "verse": "But the Lord is faithful. He will establish you and guard you against the evil one.",
+      "reference": "2 Thessalonians 3:3"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.",
+      "reference": "Galatians 5:6"
+    },
+    {
+      "verse": "And Jesus said to the centurion, 'Go; let it be done for you as you have believed.' And the servant was healed at that very moment.",
+      "reference": "Matthew 8:13"
+    },
+    {
+      "verse": "But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit.",
+      "reference": "Jude 1:20"
+    },
+    {
+      "verse": "And he said to her, 'Daughter, your faith has made you well; go in peace, and be healed of your disease.'",
+      "reference": "Mark 5:34"
+    },
+    {
+      "verse": "For by faith the people of old received their commendation.",
+      "reference": "Hebrews 11:2"
+    },
+    {
+      "verse": "And Jesus, aware of this, said to them, 'Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?'",
+      "reference": "Mark 8:17"
+    },
+    {
+      "verse": "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs.",
+      "reference": "1 Timothy 6:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "For we walk by faith, not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can believe, all things are possible to him who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, ‘Be taken up and thrown into the sea,’ it will happen.'",
+      "reference": "Matthew 21:21"
+    },
+    {
+      "verse": "The righteous shall live by faith.",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And whatever you ask in prayer, you will receive, if you have faith.",
+      "reference": "Matthew 21:22"
+    },
+    {
+      "verse": "For nothing will be impossible with God.",
+      "reference": "Luke 1:37"
+    },
+    {
+      "verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called.",
+      "reference": "1 Timothy 6:12"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For in it the righteousness of God is revealed from faith for faith, as it is written, 'The righteous shall live by faith.'",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And he said to the woman, 'Your faith has saved you; go in peace.'",
+      "reference": "Luke 7:50"
+    },
+    {
+      "verse": "For by faith we live, and not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "And the apostles said to the Lord, 'Increase our faith!'",
+      "reference": "Luke 17:5"
+    },
+    {
+      "verse": "But you, O man of God, flee these things and pursue righteousness, godliness, faith, love, patience, gentleness.",
+      "reference": "1 Timothy 6:11"
+    },
+    {
+      "verse": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "reference": "John 3:16"
+    },
+    {
+      "verse": "And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.",
+      "reference": "Ephesians 2:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can! All things are possible for one who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "For the Scripture says, 'Everyone who believes in him will not be put to shame.'",
+      "reference": "Romans 10:11"
+    },
+    {
+      "verse": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness.",
+      "reference": "Galatians 5:22"
+    },
+    {
+      "verse": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes.",
+      "reference": "Romans 1:16"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.'",
+      "reference": "Matthew 17:20"
+    },
+    {
+      "verse": "For we hold that one is justified by faith apart from works of the law.",
+      "reference": "Romans 3:28"
+    },
+    {
+      "verse": "And he said to them, 'Why are you so afraid? Have you still no faith?'",
+      "reference": "Mark 4:40"
+    },
+    {
+      "verse": "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.",
+      "reference": "Hebrews 11:6"
+    },
+    {
+      "verse": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.",
+      "reference": "Ephesians 2:8"
+    },
+    {
+      "verse": "But the Lord is faithful. He will establish you and guard you against the evil one.",
+      "reference": "2 Thessalonians 3:3"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.",
+      "reference": "Galatians 5:6"
+    },
+    {
+      "verse": "And Jesus said to the centurion, 'Go; let it be done for you as you have believed.' And the servant was healed at that very moment.",
+      "reference": "Matthew 8:13"
+    },
+    {
+      "verse": "But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit.",
+      "reference": "Jude 1:20"
+    },
+    {
+      "verse": "And he said to her, 'Daughter, your faith has made you well; go in peace, and be healed of your disease.'",
+      "reference": "Mark 5:34"
+    },
+    {
+      "verse": "For by faith the people of old received their commendation.",
+      "reference": "Hebrews 11:2"
+    },
+    {
+      "verse": "And Jesus, aware of this, said to them, 'Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?'",
+      "reference": "Mark 8:17"
+    },
+    {
+      "verse": "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs.",
+      "reference": "1 Timothy 6:10"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    },
+    {
+      "verse": "For we walk by faith, not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'If you can believe, all things are possible to him who believes.'",
+      "reference": "Mark 9:23"
+    },
+    {
+      "verse": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
+      "reference": "1 John 5:4"
+    },
+    {
+      "verse": "And Jesus answered them, 'Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, ‘Be taken up and thrown into the sea,’ it will happen.'",
+      "reference": "Matthew 21:21"
+    },
+    {
+      "verse": "The righteous shall live by faith.",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And whatever you ask in prayer, you will receive, if you have faith.",
+      "reference": "Matthew 21:22"
+    },
+    {
+      "verse": "For nothing will be impossible with God.",
+      "reference": "Luke 1:37"
+    },
+    {
+      "verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called.",
+      "reference": "1 Timothy 6:12"
+    },
+    {
+      "verse": "And Jesus said to him, 'Go your way; your faith has made you well.' And immediately he recovered his sight and followed him on the way.",
+      "reference": "Mark 10:52"
+    },
+    {
+      "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.",
+      "reference": "James 1:6"
+    },
+    {
+      "verse": "For in it the righteousness of God is revealed from faith for faith, as it is written, 'The righteous shall live by faith.'",
+      "reference": "Romans 1:17"
+    },
+    {
+      "verse": "And he said to the woman, 'Your faith has saved you; go in peace.'",
+      "reference": "Luke 7:50"
+    },
+    {
+      "verse": "For by faith we live, and not by sight.",
+      "reference": "2 Corinthians 5:7"
+    },
+    {
+      "verse": "And Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'",
+      "reference": "John 20:29"
+    }
+
+]
+},
+  "error": []
+}

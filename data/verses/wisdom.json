@@ -1,0 +1,847 @@
+
+{
+  "status": "success",
+  "message": "homepage data",
+  "meta": {},
+  "data":
+  {
+  "category": "Wisdom",
+  "verses": [
+    {
+      "verse": "The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight.",
+      "reference": "Proverbs 9:10"
+    },
+    {
+      "verse": "Trust in the Lord with all your heart, and do not lean on your own understanding.",
+      "reference": "Proverbs 3:5"
+    },
+    {
+      "verse": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.",
+      "reference": "James 1:5"
+    },
+    {
+      "verse": "The beginning of wisdom is this: Get wisdom, and whatever you get, get insight.",
+      "reference": "Proverbs 4:7"
+    },
+    {
+      "verse": "How much better to get wisdom than gold! To get understanding is to be chosen rather than silver.",
+      "reference": "Proverbs 16:16"
+    },
+    {
+      "verse": "The fear of the Lord is instruction in wisdom, and humility comes before honor.",
+      "reference": "Proverbs 15:33"
+    },
+    {
+      "verse": "Be not wise in your own eyes; fear the Lord, and turn away from evil.",
+      "reference": "Proverbs 3:7"
+    },
+    {
+      "verse": "Whoever walks with the wise becomes wise, but the companion of fools will suffer harm.",
+      "reference": "Proverbs 13:20"
+    },
+    {
+      "verse": "A wise man is full of strength, and a man of knowledge enhances his might.",
+      "reference": "Proverbs 24:5"
+    },
+    {
+      "verse": "The wise of heart will receive commandments, but a babbling fool will come to ruin.",
+      "reference": "Proverbs 10:8"
+    },
+    {
+      "verse": "The way of a fool is right in his own eyes, but a wise man listens to advice.",
+      "reference": "Proverbs 12:15"
+    },
+    {
+      "verse": "Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.",
+      "reference": "Proverbs 26:12"
+    },
+    {
+      "verse": "The wise will inherit honor, but fools get disgrace.",
+      "reference": "Proverbs 3:35"
+    },
+    {
+      "verse": "A fool gives full vent to his spirit, but a wise man quietly holds it back.",
+      "reference": "Proverbs 29:11"
+    },
+    {
+      "verse": "The heart of the wise makes his speech judicious and adds persuasiveness to his lips.",
+      "reference": "Proverbs 16:23"
+    },
+    {
+      "verse": "The wise lay up knowledge, but the mouth of a fool brings ruin near.",
+      "reference": "Proverbs 10:14"
+    },
+    {
+      "verse": "The wisdom of the prudent is to discern his way, but the folly of fools is deceiving.",
+      "reference": "Proverbs 14:8"
+    },
+    {
+      "verse": "The wise woman builds her house, but the foolish tears it down with her own hands.",
+      "reference": "Proverbs 14:1"
+    },
+    {
+      "verse": "The wise will be called understanding, and sweetness of speech increases persuasiveness.",
+      "reference": "Proverbs 16:21"
+    },
+    {
+      "verse": "A wise son makes a glad father, but a foolish son is a sorrow to his mother.",
+      "reference": "Proverbs 10:1"
+    },
+    {
+      "verse": "The wise fear the Lord and shun evil, but a fool is hotheaded and yet feels secure.",
+      "reference": "Proverbs 14:16"
+    },
+    {
+      "verse": "The tongue of the wise commends knowledge, but the mouths of fools pour out folly.",
+      "reference": "Proverbs 15:2"
+    },
+    {
+      "verse": "The lips of the wise spread knowledge; not so the hearts of fools.",
+      "reference": "Proverbs 15:7"
+    },
+    {
+      "verse": "The wise in heart are called discerning, and gracious words promote instruction.",
+      "reference": "Proverbs 16:21"
+    },
+    {
+      "verse": "Whoever is patient has great understanding, but one who is quick-tempered displays folly.",
+      "reference": "Proverbs 14:29"
+    },
+    {
+      "verse": "Even fools are thought wise if they keep silent, and discerning if they hold their tongues.",
+      "reference": "Proverbs 17:28"
+    },
+    {
+      "verse": "The wise store up choice food and olive oil, but fools gulp theirs down.",
+      "reference": "Proverbs 21:20"
+    },
+    {
+      "verse": "The wise prevail through great power, and those who have knowledge muster their strength.",
+      "reference": "Proverbs 24:5"
+    },
+    {
+      "verse": "By wisdom a house is built, and through understanding it is established.",
+      "reference": "Proverbs 24:3"
+    },
+    {
+      "verse": "A wise king winnows out the wicked; he drives the threshing wheel over them.",
+      "reference": "Proverbs 20:26"
+    },
+    {
+      "verse": "The wise in heart accept commands, but a chattering fool comes to ruin.",
+      "reference": "Proverbs 10:8"
+    },
+    {
+      "verse": "The wise woman builds her house, but with her own hands the foolish one tears hers down.",
+      "reference": "Proverbs 14:1"
+    },
+    {
+      "verse": "The wise store up knowledge, but the mouth of a fool invites ruin.",
+      "reference": "Proverbs 10:14"
+    },
+    {
+      "verse": "The wise inherit honor, but fools get only shame.",
+      "reference": "Proverbs 3:35"
+    },
+    {
+      "verse": "The wise don’t make a show of their knowledge, but fools broadcast their foolishness.",
+      "reference": "Proverbs 12:23"
+    },
+    {
+      "verse": "The wise don’t engage in empty chatter; what they say helps others grow.",
+      "reference": "Proverbs 10:21"
+    },
+    {
+      "verse": "A wise person’s heart guides their mouth and brings forth wise words.",
+      "reference": "Proverbs 16:23"
+    },
+    {
+      "verse": "The wise don’t trust in their own understanding but seek God’s guidance.",
+      "reference": "Proverbs 3:5-6"
+    },
+    {
+      "verse": "Wisdom is more precious than rubies; nothing you desire can compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise listen to advice, but fools insist on their own way.",
+      "reference": "Proverbs 12:15"
+    },
+    {
+      "verse": "Wisdom brings strength; knowledge gives power.",
+      "reference": "Proverbs 24:5"
+    },
+    {
+      "verse": "A wise person avoids quarrels, but a fool is quick to argue.",
+      "reference": "Proverbs 20:3"
+    },
+    {
+      "verse": "The wise don’t answer before listening, but fools rush in with words.",
+      "reference": "Proverbs 18:13"
+    },
+    {
+      "verse": "Wisdom is a shelter, as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have it.",
+      "reference": "Ecclesiastes 7:12"
+    },
+    {
+      "verse": "A wise person’s heart directs them toward righteousness, but a fool’s heart leads to sin.",
+      "reference": "Ecclesiastes 10:2"
+    },
+    {
+      "verse": "The words of the wise are like goads, their collected sayings like firmly embedded nails.",
+      "reference": "Ecclesiastes 12:11"
+    },
+    {
+      "verse": "Wisdom makes one wise person more powerful than ten rulers in a city.",
+      "reference": "Ecclesiastes 7:19"
+    },
+    {
+      "verse": "Wisdom brightens a person’s face and changes its hard appearance.",
+      "reference": "Ecclesiastes 8:1"
+    },
+    {
+      "verse": "Whoever loves discipline loves knowledge, but whoever hates correction is stupid.",
+      "reference": "Proverbs 12:1"
+    },
+    {
+      "verse": "The wise don’t flaunt their wisdom, but fools expose their folly.",
+      "reference": "Proverbs 13:16"
+    },
+    {
+      "verse": "A wise son heeds his father’s instruction, but a mocker does not respond to rebukes.",
+      "reference": "Proverbs 13:1"
+    },
+    {
+      "verse": "The wise don’t speak just to hear themselves, but fools can’t restrain their words.",
+      "reference": "Proverbs 15:2"
+    },
+    {
+      "verse": "Wisdom’s instruction is to fear the Lord, and humility comes before honor.",
+      "reference": "Proverbs 15:33"
+    },
+    {
+      "verse": "The wise think before they act; fools don’t—and even brag about their foolishness.",
+      "reference": "Proverbs 13:16"
+    },
+    {
+      "verse": "A wise person seeks knowledge, but the mouth of a fool feeds on folly.",
+      "reference": "Proverbs 15:14"
+    },
+    {
+      "verse": "The wise don’t trust in wealth but in the Lord who gives all things.",
+      "reference": "Proverbs 11:28"
+    },
+    {
+      "verse": "Wisdom is found on the lips of the discerning, but a rod is for the back of one who has no sense.",
+      "reference": "Proverbs 10:13"
+    },
+    {
+      "verse": "The wise don’t make hasty decisions; they weigh their options carefully.",
+      "reference": "Proverbs 15:22"
+    },
+    {
+      "verse": "Wisdom brings joy to those who have understanding, but fools are consumed by their own schemes.",
+      "reference": "Proverbs 10:23"
+    },
+    {
+      "verse": "A wise person’s words are gracious, but a fool’s speech destroys.",
+      "reference": "Ecclesiastes 10:12"
+    },
+    {
+      "verse": "The wise don’t seek revenge; they leave justice to the Lord.",
+      "reference": "Proverbs 20:22"
+    },
+    {
+      "verse": "Wisdom is better than weapons of war, but one sinner destroys much good.",
+      "reference": "Ecclesiastes 9:18"
+    },
+    {
+      "verse": "The wise keep their knowledge to themselves, but a fool’s heart blurts out folly.",
+      "reference": "Proverbs 12:23"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "A wise person controls their temper; a fool shows their annoyance at once.",
+      "reference": "Proverbs 12:16"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, or they will be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is too high for fools; in the assembly at the gate they must not open their mouths.",
+      "reference": "Proverbs 24:7"
+    },
+    {
+      "verse": "The wise don’t rely on their own insight but acknowledge God in all their ways.",
+      "reference": "Proverbs 3:6"
+    },
+    {
+      "verse": "Wisdom is sweet to the soul; if you find it, there is a future hope for you.",
+      "reference": "Proverbs 24:14"
+    },
+    {
+      "verse": "The wise don’t envy the wicked but trust in the Lord’s justice.",
+      "reference": "Proverbs 23:17"
+    },
+    {
+      "verse": "Wisdom is more profitable than silver and yields better returns than gold.",
+      "reference": "Proverbs 3:14"
+    },
+    {
+      "verse": "The wise don’t make friends with hot-tempered people, or they may learn their ways.",
+      "reference": "Proverbs 22:24"
+    },
+    {
+      "verse": "Wisdom brings long life, wealth, and honor.",
+      "reference": "Proverbs 3:16"
+    },
+    {
+      "verse": "The wise don’t speak rashly; they weigh their words carefully.",
+      "reference": "Proverbs 15:28"
+    },
+    {
+      "verse": "Wisdom is a fountain of life to those who have it, but folly brings punishment to fools.",
+      "reference": "Proverbs 16:22"
+    },
+    {
+      "verse": "The wise don’t trust in their own strength but in the Lord’s power.",
+      "reference": "Proverbs 21:31"
+    },
+    {
+      "verse": "Wisdom is better than jewels, and all you may desire cannot compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t seek their own glory but give honor where it is due.",
+      "reference": "Proverbs 25:27"
+    },
+    {
+      "verse": "Wisdom is the principal thing; therefore get wisdom, and with all your getting, get understanding.",
+      "reference": "Proverbs 4:7"
+    },
+    {
+      "verse": "The wise don’t despise correction, for it leads to life.",
+      "reference": "Proverbs 15:32"
+    },
+    {
+      "verse": "Wisdom is a shield to those who walk uprightly.",
+      "reference": "Proverbs 2:7"
+    },
+    {
+      "verse": "The wise don’t rejoice in wrongdoing but delight in truth.",
+      "reference": "1 Corinthians 13:6"
+    },
+    {
+      "verse": "Wisdom is justified by her deeds.",
+      "reference": "Matthew 11:19"
+    },
+    {
+      "verse": "The wise don’t rely on human wisdom but on God’s power.",
+      "reference": "1 Corinthians 2:5"
+    },
+    {
+      "verse": "Wisdom is better than strength, though the poor man’s wisdom is despised.",
+      "reference": "Ecclesiastes 9:16"
+    },
+    {
+      "verse": "The wise don’t boast about tomorrow, for they do not know what a day may bring.",
+      "reference": "Proverbs 27:1"
+    },
+    {
+      "verse": "Wisdom is a shelter, as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have it.",
+      "reference": "Ecclesiastes 7:12"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, lest they be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is more precious than rubies; nothing you desire can compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t trust in their own understanding but seek God’s guidance.",
+      "reference": "Proverbs 3:5-6"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "The wise don’t speak just to hear themselves, but fools can’t restrain their words.",
+      "reference": "Proverbs 15:2"
+    },
+    {
+      "verse": "Wisdom’s instruction is to fear the Lord, and humility comes before honor.",
+      "reference": "Proverbs 15:33"
+    },
+    {
+      "verse": "The wise think before they act; fools don’t—and even brag about their foolishness.",
+      "reference": "Proverbs 13:16"
+    },
+    {
+      "verse": "Wisdom is found on the lips of the discerning, but a rod is for the back of one who has no sense.",
+      "reference": "Proverbs 10:13"
+    },
+    {
+      "verse": "The wise don’t make hasty decisions; they weigh their options carefully.",
+      "reference": "Proverbs 15:22"
+    },
+    {
+      "verse": "Wisdom brings joy to those who have understanding, but fools are consumed by their own schemes.",
+      "reference": "Proverbs 10:23"
+    },
+    {
+      "verse": "A wise person’s words are gracious, but a fool’s speech destroys.",
+      "reference": "Ecclesiastes 10:12"
+    },
+    {
+      "verse": "The wise don’t seek revenge; they leave justice to the Lord.",
+      "reference": "Proverbs 20:22"
+    },
+    {
+      "verse": "Wisdom is better than weapons of war, but one sinner destroys much good.",
+      "reference": "Ecclesiastes 9:18"
+    },
+    {
+      "verse": "The wise keep their knowledge to themselves, but a fool’s heart blurts out folly.",
+      "reference": "Proverbs 12:23"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "A wise person controls their temper; a fool shows their annoyance at once.",
+      "reference": "Proverbs 12:16"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, or they will be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is too high for fools; in the assembly at the gate they must not open their mouths.",
+      "reference": "Proverbs 24:7"
+    },
+    {
+      "verse": "The wise don’t rely on their own insight but acknowledge God in all their ways.",
+      "reference": "Proverbs 3:6"
+    },
+    {
+      "verse": "Wisdom is sweet to the soul; if you find it, there is a future hope for you.",
+      "reference": "Proverbs 24:14"
+    },
+    {
+      "verse": "The wise don’t envy the wicked but trust in the Lord’s justice.",
+      "reference": "Proverbs 23:17"
+    },
+    {
+      "verse": "Wisdom is more profitable than silver and yields better returns than gold.",
+      "reference": "Proverbs 3:14"
+    },
+    {
+      "verse": "The wise don’t make friends with hot-tempered people, or they may learn their ways.",
+      "reference": "Proverbs 22:24"
+    },
+    {
+      "verse": "Wisdom brings long life, wealth, and honor.",
+      "reference": "Proverbs 3:16"
+    },
+    {
+      "verse": "The wise don’t speak rashly; they weigh their words carefully.",
+      "reference": "Proverbs 15:28"
+    },
+    {
+      "verse": "Wisdom is a fountain of life to those who have it, but folly brings punishment to fools.",
+      "reference": "Proverbs 16:22"
+    },
+    {
+      "verse": "The wise don’t trust in their own strength but in the Lord’s power.",
+      "reference": "Proverbs 21:31"
+    },
+    {
+      "verse": "Wisdom is better than jewels, and all you may desire cannot compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t seek their own glory but give honor where it is due.",
+      "reference": "Proverbs 25:27"
+    },
+    {
+      "verse": "Wisdom is the principal thing; therefore get wisdom, and with all your getting, get understanding.",
+      "reference": "Proverbs 4:7"
+    },
+    {
+      "verse": "The wise don’t despise correction, for it leads to life.",
+      "reference": "Proverbs 15:32"
+    },
+    {
+      "verse": "Wisdom is a shield to those who walk uprightly.",
+      "reference": "Proverbs 2:7"
+    },
+    {
+      "verse": "The wise don’t rejoice in wrongdoing but delight in truth.",
+      "reference": "1 Corinthians 13:6"
+    },
+    {
+      "verse": "Wisdom is justified by her deeds.",
+      "reference": "Matthew 11:19"
+    },
+    {
+      "verse": "The wise don’t rely on human wisdom but on God’s power.",
+      "reference": "1 Corinthians 2:5"
+    },
+    {
+      "verse": "Wisdom is better than strength, though the poor man’s wisdom is despised.",
+      "reference": "Ecclesiastes 9:16"
+    },
+    {
+      "verse": "The wise don’t boast about tomorrow, for they do not know what a day may bring.",
+      "reference": "Proverbs 27:1"
+    },
+    {
+      "verse": "Wisdom is a shelter, as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have it.",
+      "reference": "Ecclesiastes 7:12"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, lest they be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is more precious than rubies; nothing you desire can compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t trust in their own understanding but seek God’s guidance.",
+      "reference": "Proverbs 3:5-6"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "The wise don’t speak just to hear themselves, but fools can’t restrain their words.",
+      "reference": "Proverbs 15:2"
+    },
+    {
+      "verse": "Wisdom’s instruction is to fear the Lord, and humility comes before honor.",
+      "reference": "Proverbs 15:33"
+    },
+    {
+      "verse": "The wise think before they act; fools don’t—and even brag about their foolishness.",
+      "reference": "Proverbs 13:16"
+    },
+    {
+      "verse": "Wisdom is found on the lips of the discerning, but a rod is for the back of one who has no sense.",
+      "reference": "Proverbs 10:13"
+    },
+    {
+      "verse": "The wise don’t make hasty decisions; they weigh their options carefully.",
+      "reference": "Proverbs 15:22"
+    },
+    {
+      "verse": "Wisdom brings joy to those who have understanding, but fools are consumed by their own schemes.",
+      "reference": "Proverbs 10:23"
+    },
+    {
+      "verse": "A wise person’s words are gracious, but a fool’s speech destroys.",
+      "reference": "Ecclesiastes 10:12"
+    },
+    {
+      "verse": "The wise don’t seek revenge; they leave justice to the Lord.",
+      "reference": "Proverbs 20:22"
+    },
+    {
+      "verse": "Wisdom is better than weapons of war, but one sinner destroys much good.",
+      "reference": "Ecclesiastes 9:18"
+    },
+    {
+      "verse": "The wise keep their knowledge to themselves, but a fool’s heart blurts out folly.",
+      "reference": "Proverbs 12:23"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "A wise person controls their temper; a fool shows their annoyance at once.",
+      "reference": "Proverbs 12:16"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, or they will be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is too high for fools; in the assembly at the gate they must not open their mouths.",
+      "reference": "Proverbs 24:7"
+    },
+    {
+      "verse": "The wise don’t rely on their own insight but acknowledge God in all their ways.",
+      "reference": "Proverbs 3:6"
+    },
+    {
+      "verse": "Wisdom is sweet to the soul; if you find it, there is a future hope for you.",
+      "reference": "Proverbs 24:14"
+    },
+    {
+      "verse": "The wise don’t envy the wicked but trust in the Lord’s justice.",
+      "reference": "Proverbs 23:17"
+    },
+    {
+      "verse": "Wisdom is more profitable than silver and yields better returns than gold.",
+      "reference": "Proverbs 3:14"
+    },
+    {
+      "verse": "The wise don’t make friends with hot-tempered people, or they may learn their ways.",
+      "reference": "Proverbs 22:24"
+    },
+    {
+      "verse": "Wisdom brings long life, wealth, and honor.",
+      "reference": "Proverbs 3:16"
+    },
+    {
+      "verse": "The wise don’t speak rashly; they weigh their words carefully.",
+      "reference": "Proverbs 15:28"
+    },
+    {
+      "verse": "Wisdom is a fountain of life to those who have it, but folly brings punishment to fools.",
+      "reference": "Proverbs 16:22"
+    },
+    {
+      "verse": "The wise don’t trust in their own strength but in the Lord’s power.",
+      "reference": "Proverbs 21:31"
+    },
+    {
+      "verse": "Wisdom is better than jewels, and all you may desire cannot compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t seek their own glory but give honor where it is due.",
+      "reference": "Proverbs 25:27"
+    },
+    {
+      "verse": "Wisdom is the principal thing; therefore get wisdom, and with all your getting, get understanding.",
+      "reference": "Proverbs 4:7"
+    },
+    {
+      "verse": "The wise don’t despise correction, for it leads to life.",
+      "reference": "Proverbs 15:32"
+    },
+    {
+      "verse": "Wisdom is a shield to those who walk uprightly.",
+      "reference": "Proverbs 2:7"
+    },
+    {
+      "verse": "The wise don’t rejoice in wrongdoing but delight in truth.",
+      "reference": "1 Corinthians 13:6"
+    },
+    {
+      "verse": "Wisdom is justified by her deeds.",
+      "reference": "Matthew 11:19"
+    },
+    {
+      "verse": "The wise don’t rely on human wisdom but on God’s power.",
+      "reference": "1 Corinthians 2:5"
+    },
+    {
+      "verse": "Wisdom is better than strength, though the poor man’s wisdom is despised.",
+      "reference": "Ecclesiastes 9:16"
+    },
+    {
+      "verse": "The wise don’t boast about tomorrow, for they do not know what a day may bring.",
+      "reference": "Proverbs 27:1"
+    },
+    {
+      "verse": "Wisdom is a shelter, as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have it.",
+      "reference": "Ecclesiastes 7:12"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, lest they be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is more precious than rubies; nothing you desire can compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t trust in their own understanding but seek God’s guidance.",
+      "reference": "Proverbs 3:5-6"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "The wise don’t speak just to hear themselves, but fools can’t restrain their words.",
+      "reference": "Proverbs 15:2"
+    },
+    {
+      "verse": "Wisdom’s instruction is to fear the Lord, and humility comes before honor.",
+      "reference": "Proverbs 15:33"
+    },
+    {
+      "verse": "The wise think before they act; fools don’t—and even brag about their foolishness.",
+      "reference": "Proverbs 13:16"
+    },
+    {
+      "verse": "Wisdom is found on the lips of the discerning, but a rod is for the back of one who has no sense.",
+      "reference": "Proverbs 10:13"
+    },
+    {
+      "verse": "The wise don’t make hasty decisions; they weigh their options carefully.",
+      "reference": "Proverbs 15:22"
+    },
+    {
+      "verse": "Wisdom brings joy to those who have understanding, but fools are consumed by their own schemes.",
+      "reference": "Proverbs 10:23"
+    },
+    {
+      "verse": "A wise person’s words are gracious, but a fool’s speech destroys.",
+      "reference": "Ecclesiastes 10:12"
+    },
+    {
+      "verse": "The wise don’t seek revenge; they leave justice to the Lord.",
+      "reference": "Proverbs 20:22"
+    },
+    {
+      "verse": "Wisdom is better than weapons of war, but one sinner destroys much good.",
+      "reference": "Ecclesiastes 9:18"
+    },
+    {
+      "verse": "The wise keep their knowledge to themselves, but a fool’s heart blurts out folly.",
+      "reference": "Proverbs 12:23"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "A wise person controls their temper; a fool shows their annoyance at once.",
+      "reference": "Proverbs 12:16"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, or they will be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is too high for fools; in the assembly at the gate they must not open their mouths.",
+      "reference": "Proverbs 24:7"
+    },
+    {
+      "verse": "The wise don’t rely on their own insight but acknowledge God in all their ways.",
+      "reference": "Proverbs 3:6"
+    },
+    {
+      "verse": "Wisdom is sweet to the soul; if you find it, there is a future hope for you.",
+      "reference": "Proverbs 24:14"
+    },
+    {
+      "verse": "The wise don’t envy the wicked but trust in the Lord’s justice.",
+      "reference": "Proverbs 23:17"
+    },
+    {
+      "verse": "Wisdom is more profitable than silver and yields better returns than gold.",
+      "reference": "Proverbs 3:14"
+    },
+    {
+      "verse": "The wise don’t make friends with hot-tempered people, or they may learn their ways.",
+      "reference": "Proverbs 22:24"
+    },
+    {
+      "verse": "Wisdom brings long life, wealth, and honor.",
+      "reference": "Proverbs 3:16"
+    },
+    {
+      "verse": "The wise don’t speak rashly; they weigh their words carefully.",
+      "reference": "Proverbs 15:28"
+    },
+    {
+      "verse": "Wisdom is a fountain of life to those who have it, but folly brings punishment to fools.",
+      "reference": "Proverbs 16:22"
+    },
+    {
+      "verse": "The wise don’t trust in their own strength but in the Lord’s power.",
+      "reference": "Proverbs 21:31"
+    },
+    {
+      "verse": "Wisdom is better than jewels, and all you may desire cannot compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t seek their own glory but give honor where it is due.",
+      "reference": "Proverbs 25:27"
+    },
+    {
+      "verse": "Wisdom is the principal thing; therefore get wisdom, and with all your getting, get understanding.",
+      "reference": "Proverbs 4:7"
+    },
+    {
+      "verse": "The wise don’t despise correction, for it leads to life.",
+      "reference": "Proverbs 15:32"
+    },
+    {
+      "verse": "Wisdom is a shield to those who walk uprightly.",
+      "reference": "Proverbs 2:7"
+    },
+    {
+      "verse": "The wise don’t rejoice in wrongdoing but delight in truth.",
+      "reference": "1 Corinthians 13:6"
+    },
+    {
+      "verse": "Wisdom is justified by her deeds.",
+      "reference": "Matthew 11:19"
+    },
+    {
+      "verse": "The wise don’t rely on human wisdom but on God’s power.",
+      "reference": "1 Corinthians 2:5"
+    },
+    {
+      "verse": "Wisdom is better than strength, though the poor man’s wisdom is despised.",
+      "reference": "Ecclesiastes 9:16"
+    },
+    {
+      "verse": "The wise don’t boast about tomorrow, for they do not know what a day may bring.",
+      "reference": "Proverbs 27:1"
+    },
+    {
+      "verse": "Wisdom is a shelter, as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have it.",
+      "reference": "Ecclesiastes 7:12"
+    },
+    {
+      "verse": "The wise don’t answer a fool according to his folly, lest they be like him.",
+      "reference": "Proverbs 26:4"
+    },
+    {
+      "verse": "Wisdom is more precious than rubies; nothing you desire can compare with her.",
+      "reference": "Proverbs 8:11"
+    },
+    {
+      "verse": "The wise don’t trust in their own understanding but seek God’s guidance.",
+      "reference": "Proverbs 3:5-6"
+    },
+    {
+      "verse": "Wisdom is a tree of life to those who embrace her; happy are those who hold her tightly.",
+      "reference": "Proverbs 3:18"
+    },
+    {
+      "verse": "The wise don’t speak just to hear themselves, but fools can’t restrain their words.",
+      "reference": "Proverbs 15:2"
+    },
+    {
+      "verse": "Wisdom’s instruction is to fear the Lord, and humility comes before honor.",
+      "reference": "Proverbs 15:33"
+    },
+    {
+      "verse": "The wise think before they act; fools don’t—and even brag about their foolishness.",
+      "reference": "Proverbs 13:16"
+    },
+    {
+      "verse": "Wisdom is found on the lips of the discerning, but a rod is for the back of one who has no sense.",
+      "reference": "Proverbs 10:13"
+    }]},
+  "error": []
+}
