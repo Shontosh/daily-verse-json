@@ -1,0 +1,861 @@
+
+{
+  "status": "success",
+  "message": "homepage data",
+  "meta": {},
+  "data":
+  {
+  "category": "Gratitude",
+  "verses": [
+    {
+      "verse": "Give thanks to the Lord, for he is good; his love endures forever.",
+      "reference": "Psalm 107:1"
+    },
+    {
+      "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+      "reference": "Philippians 4:6"
+    },
+    {
+      "verse": "Let them give thanks to the Lord for his unfailing love and his wonderful deeds for mankind.",
+      "reference": "Psalm 107:8"
+    },
+    {
+      "verse": "Give thanks in all circumstances; for this is God’s will for you in Christ Jesus.",
+      "reference": "1 Thessalonians 5:18"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, with all my heart; I will tell of all your wonderful deeds.",
+      "reference": "Psalm 9:1"
+    },
+    {
+      "verse": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.",
+      "reference": "James 1:17"
+    },
+    {
+      "verse": "Oh give thanks to the Lord, for he is good; for his steadfast love endures forever!",
+      "reference": "1 Chronicles 16:34"
+    },
+    {
+      "verse": "Let us come before him with thanksgiving and extol him with music and song.",
+      "reference": "Psalm 95:2"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.",
+      "reference": "Colossians 3:17"
+    },
+    {
+      "verse": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.",
+      "reference": "Psalm 100:4"
+    },
+    {
+      "verse": "I will praise God’s name in song and glorify him with thanksgiving.",
+      "reference": "Psalm 69:30"
+    },
+    {
+      "verse": "But thanks be to God! He gives us the victory through our Lord Jesus Christ.",
+      "reference": "1 Corinthians 15:57"
+    },
+    {
+      "verse": "We ought always to thank God for you, brothers and sisters, and rightly so, because your faith is growing more and more.",
+      "reference": "2 Thessalonians 1:3"
+    },
+    {
+      "verse": "Praise the Lord. Give thanks to the Lord, for he is good; his love endures forever.",
+      "reference": "Psalm 106:1"
+    },
+    {
+      "verse": "Sing to the Lord with grateful praise; make music to our God on the harp.",
+      "reference": "Psalm 147:7"
+    },
+    {
+      "verse": "Devote yourselves to prayer, being watchful and thankful.",
+      "reference": "Colossians 4:2"
+    },
+    {
+      "verse": "I will give thanks to the Lord because of his righteousness; I will sing the praises of the name of the Lord Most High.",
+      "reference": "Psalm 7:17"
+    },
+    {
+      "verse": "Give thanks to the God of heaven. His love endures forever.",
+      "reference": "Psalm 136:26"
+    },
+    {
+      "verse": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.",
+      "reference": "Colossians 3:15"
+    },
+    {
+      "verse": "I will praise you, Lord my God, with all my heart; I will glorify your name forever.",
+      "reference": "Psalm 86:12"
+    },
+    {
+      "verse": "Thanks be to God for his indescribable gift!",
+      "reference": "2 Corinthians 9:15"
+    },
+    {
+      "verse": "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good. I will say, ‘Salvation comes from the Lord.’",
+      "reference": "Jonah 2:9"
+    },
+    {
+      "verse": "Therefore, since we are receiving a kingdom that cannot be shaken, let us be thankful, and so worship God acceptably with reverence and awe.",
+      "reference": "Hebrews 12:28"
+    },
+    {
+      "verse": "The Lord has done great things for us, and we are filled with joy.",
+      "reference": "Psalm 126:3"
+    },
+    {
+      "verse": "I will extol the Lord at all times; his praise will always be on my lips.",
+      "reference": "Psalm 34:1"
+    },
+    {
+      "verse": "Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.",
+      "reference": "Colossians 3:16"
+    },
+    {
+      "verse": "You turned my wailing into dancing; you removed my sackcloth and clothed me with joy.",
+      "reference": "Psalm 30:11"
+    },
+    {
+      "verse": "Always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.",
+      "reference": "Ephesians 5:20"
+    },
+    {
+      "verse": "I will give you thanks, for you answered me; you have become my salvation.",
+      "reference": "Psalm 118:21"
+    },
+    {
+      "verse": "The Lord is my strength and my song; he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "Give thanks to the Lord, call on his name; make known among the nations what he has done.",
+      "reference": "1 Chronicles 16:8"
+    },
+    {
+      "verse": "Because your love is better than life, my lips will glorify you.",
+      "reference": "Psalm 63:3"
+    },
+    {
+      "verse": "I will sacrifice a thank offering to you and call on the name of the Lord.",
+      "reference": "Psalm 116:17"
+    },
+    {
+      "verse": "He who sacrifices thank offerings honors me, and he prepares the way so that I may show him the salvation of God.",
+      "reference": "Psalm 50:23"
+    },
+    {
+      "verse": "But thanks be to God, who always leads us as captives in Christ’s triumphal procession and uses us to spread the aroma of the knowledge of him everywhere.",
+      "reference": "2 Corinthians 2:14"
+    },
+    {
+      "verse": "I will sing to the Lord all my life; I will sing praise to my God as long as I live.",
+      "reference": "Psalm 104:33"
+    },
+    {
+      "verse": "The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "Let them give thanks to the Lord for his unfailing love and his wonderful deeds for mankind, for he satisfies the thirsty and fills the hungry with good things.",
+      "reference": "Psalm 107:8-9"
+    },
+    {
+      "verse": "For you, Lord, have delivered me from death, my eyes from tears, my feet from stumbling.",
+      "reference": "Psalm 116:8"
+    },
+    {
+      "verse": "I will praise you forever for what you have done; in your name I will hope, for your name is good. I will praise you in the presence of your saints.",
+      "reference": "Psalm 52:9"
+    },
+    {
+      "verse": "But I will sing of your strength, in the morning I will sing of your love; for you are my fortress, my refuge in times of trouble.",
+      "reference": "Psalm 59:16"
+    },
+    {
+      "verse": "The Lord is my shepherd, I lack nothing.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, with all my heart; I will tell of all your wonderful deeds. I will be glad and rejoice in you; I will sing the praises of your name, O Most High.",
+      "reference": "Psalm 9:1-2"
+    },
+    {
+      "verse": "For the Lord is good and his love endures forever; his faithfulness continues through all generations.",
+      "reference": "Psalm 100:5"
+    },
+    {
+      "verse": "Praise the Lord, my soul; all my inmost being, praise his holy name.",
+      "reference": "Psalm 103:1"
+    },
+    {
+      "verse": "I will sing the Lord’s praise, for he has been good to me.",
+      "reference": "Psalm 13:6"
+    },
+    {
+      "verse": "But I trust in your unfailing love; my heart rejoices in your salvation.",
+      "reference": "Psalm 13:5"
+    },
+    {
+      "verse": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "You are my God, and I will praise you; you are my God, and I will exalt you.",
+      "reference": "Psalm 118:28"
+    },
+    {
+      "verse": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+      "reference": "Psalm 9:1 (ESV)"
+    },
+    {
+      "verse": "The Lord is my strength and my song; he has given me victory.",
+      "reference": "Psalm 118:14 (NLT)"
+    },
+    {
+      "verse": "Let everything that has breath praise the Lord. Praise the Lord.",
+      "reference": "Psalm 150:6"
+    },
+    {
+      "verse": "For great is his love toward us, and the faithfulness of the Lord endures forever. Praise the Lord.",
+      "reference": "Psalm 117:2"
+    },
+    {
+      "verse": "I will praise you, Lord, among the nations; I will sing of you among the peoples.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "My mouth is filled with your praise, declaring your splendor all day long.",
+      "reference": "Psalm 71:8"
+    },
+    {
+      "verse": "I will tell of the kindnesses of the Lord, the deeds for which he is to be praised, according to all the Lord has done for us—yes, the many good things he has done for Israel, according to his compassion and many kindnesses.",
+      "reference": "Isaiah 63:7"
+    },
+    {
+      "verse": "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+      "reference": "Lamentations 3:22-23"
+    },
+    {
+      "verse": "But I will hope continually and will praise you yet more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "The Lord is gracious and righteous; our God is full of compassion.",
+      "reference": "Psalm 116:5"
+    },
+    {
+      "verse": "I will exalt you, my God the King; I will praise your name for ever and ever.",
+      "reference": "Psalm 145:1"
+    },
+    {
+      "verse": "Great is the Lord and most worthy of praise; his greatness no one can fathom.",
+      "reference": "Psalm 145:3"
+    },
+    {
+      "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "My lips will shout for joy when I sing praise to you—I whom you have delivered.",
+      "reference": "Psalm 71:23"
+    },
+    {
+      "verse": "I will sing of the Lord’s great love forever; with my mouth I will make your faithfulness known through all generations.",
+      "reference": "Psalm 89:1"
+    },
+    {
+      "verse": "Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion.",
+      "reference": "Psalm 103:2-4"
+    },
+    {
+      "verse": "The Lord is righteous in all his ways and faithful in all he does.",
+      "reference": "Psalm 145:17"
+    },
+    {
+      "verse": "I will glory in the Lord; let the afflicted hear and rejoice.",
+      "reference": "Psalm 34:2"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, among the peoples; I will sing praises to you among the nations.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "For you make me glad by your deeds, Lord; I sing for joy at what your hands have done.",
+      "reference": "Psalm 92:4"
+    },
+    {
+      "verse": "The Lord is my strength and my defense; he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "But as for me, I will always have hope; I will praise you more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "I will praise you with the harp for your faithfulness, my God; I will sing praise to you with the lyre, Holy One of Israel.",
+      "reference": "Psalm 71:22"
+    },
+    {
+      "verse": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being.",
+      "reference": "Psalm 104:33"
+    },
+    {
+      "verse": "My mouth will speak in praise of the Lord. Let every creature praise his holy name for ever and ever.",
+      "reference": "Psalm 145:21"
+    },
+    {
+      "verse": "I will extol the Lord at all times; his praise will always be on my lips.",
+      "reference": "Psalm 34:1"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, with all my heart; I will tell of all your wonderful deeds.",
+      "reference": "Psalm 9:1"
+    },
+    {
+      "verse": "For the Lord is good and his love endures forever; his faithfulness continues through all generations.",
+      "reference": "Psalm 100:5"
+    },
+    {
+      "verse": "Praise the Lord, my soul; all my inmost being, praise his holy name.",
+      "reference": "Psalm 103:1"
+    },
+    {
+      "verse": "I will sing the Lord’s praise, for he has been good to me.",
+      "reference": "Psalm 13:6"
+    },
+    {
+      "verse": "But I trust in your unfailing love; my heart rejoices in your salvation.",
+      "reference": "Psalm 13:5"
+    },
+    {
+      "verse": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "You are my God, and I will praise you; you are my God, and I will exalt you.",
+      "reference": "Psalm 118:28"
+    },
+    {
+      "verse": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+      "reference": "Psalm 9:1 (ESV)"
+    },
+    {
+      "verse": "The Lord is my strength and my song; he has given me victory.",
+      "reference": "Psalm 118:14 (NLT)"
+    },
+    {
+      "verse": "Let everything that has breath praise the Lord. Praise the Lord.",
+      "reference": "Psalm 150:6"
+    },
+    {
+      "verse": "For great is his love toward us, and the faithfulness of the Lord endures forever. Praise the Lord.",
+      "reference": "Psalm 117:2"
+    },
+    {
+      "verse": "I will praise you, Lord, among the nations; I will sing of you among the peoples.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "My mouth is filled with your praise, declaring your splendor all day long.",
+      "reference": "Psalm 71:8"
+    },
+    {
+      "verse": "I will tell of the kindnesses of the Lord, the deeds for which he is to be praised, according to all the Lord has done for us—yes, the many good things he has done for Israel, according to his compassion and many kindnesses.",
+      "reference": "Isaiah 63:7"
+    },
+    {
+      "verse": "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+      "reference": "Lamentations 3:22-23"
+    },
+    {
+      "verse": "But I will hope continually and will praise you yet more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "The Lord is gracious and righteous; our God is full of compassion.",
+      "reference": "Psalm 116:5"
+    },
+    {
+      "verse": "I will exalt you, my God the King; I will praise your name for ever and ever.",
+      "reference": "Psalm 145:1"
+    },
+    {
+      "verse": "Great is the Lord and most worthy of praise; his greatness no one can fathom.",
+      "reference": "Psalm 145:3"
+    },
+    {
+      "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "My lips will shout for joy when I sing praise to you—I whom you have delivered.",
+      "reference": "Psalm 71:23"
+    },
+    {
+      "verse": "I will sing of the Lord’s great love forever; with my mouth I will make your faithfulness known through all generations.",
+      "reference": "Psalm 89:1"
+    },
+    {
+      "verse": "Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion.",
+      "reference": "Psalm 103:2-4"
+    },
+    {
+      "verse": "The Lord is righteous in all his ways and faithful in all he does.",
+      "reference": "Psalm 145:17"
+    },
+    {
+      "verse": "I will glory in the Lord; let the afflicted hear and rejoice.",
+      "reference": "Psalm 34:2"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, among the peoples; I will sing praises to you among the nations.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "For you make me glad by your deeds, Lord; I sing for joy at what your hands have done.",
+      "reference": "Psalm 92:4"
+    },
+    {
+      "verse": "The Lord is my strength and my defense; he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "But as for me, I will always have hope; I will praise you more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "I will praise you with the harp for your faithfulness, my God; I will sing praise to you with the lyre, Holy One of Israel.",
+      "reference": "Psalm 71:22"
+    },
+    {
+      "verse": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being.",
+      "reference": "Psalm 104:33"
+    },
+    {
+      "verse": "My mouth will speak in praise of the Lord. Let every creature praise his holy name for ever and ever.",
+      "reference": "Psalm 145:21"
+    },
+    {
+      "verse": "I will extol the Lord at all times; his praise will always be on my lips.",
+      "reference": "Psalm 34:1"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, with all my heart; I will tell of all your wonderful deeds.",
+      "reference": "Psalm 9:1"
+    },
+    {
+      "verse": "For the Lord is good and his love endures forever; his faithfulness continues through all generations.",
+      "reference": "Psalm 100:5"
+    },
+    {
+      "verse": "Praise the Lord, my soul; all my inmost being, praise his holy name.",
+      "reference": "Psalm 103:1"
+    },
+    {
+      "verse": "I will sing the Lord’s praise, for he has been good to me.",
+      "reference": "Psalm 13:6"
+    },
+    {
+      "verse": "But I trust in your unfailing love; my heart rejoices in your salvation.",
+      "reference": "Psalm 13:5"
+    },
+    {
+      "verse": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "You are my God, and I will praise you; you are my God, and I will exalt you.",
+      "reference": "Psalm 118:28"
+    },
+    {
+      "verse": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+      "reference": "Psalm 9:1 (ESV)"
+    },
+    {
+      "verse": "The Lord is my strength and my song; he has given me victory.",
+      "reference": "Psalm 118:14 (NLT)"
+    },
+    {
+      "verse": "Let everything that has breath praise the Lord. Praise the Lord.",
+      "reference": "Psalm 150:6"
+    },
+    {
+      "verse": "For great is his love toward us, and the faithfulness of the Lord endures forever. Praise the Lord.",
+      "reference": "Psalm 117:2"
+    },
+    {
+      "verse": "I will praise you, Lord, among the nations; I will sing of you among the peoples.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "My mouth is filled with your praise, declaring your splendor all day long.",
+      "reference": "Psalm 71:8"
+    },
+    {
+      "verse": "I will tell of the kindnesses of the Lord, the deeds for which he is to be praised, according to all the Lord has done for us—yes, the many good things he has done for Israel, according to his compassion and many kindnesses.",
+      "reference": "Isaiah 63:7"
+    },
+    {
+      "verse": "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+      "reference": "Lamentations 3:22-23"
+    },
+    {
+      "verse": "But I will hope continually and will praise you yet more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "The Lord is gracious and righteous; our God is full of compassion.",
+      "reference": "Psalm 116:5"
+    },
+    {
+      "verse": "I will exalt you, my God the King; I will praise your name for ever and ever.",
+      "reference": "Psalm 145:1"
+    },
+    {
+      "verse": "Great is the Lord and most worthy of praise; his greatness no one can fathom.",
+      "reference": "Psalm 145:3"
+    },
+    {
+      "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "My lips will shout for joy when I sing praise to you—I whom you have delivered.",
+      "reference": "Psalm 71:23"
+    },
+    {
+      "verse": "I will sing of the Lord’s great love forever; with my mouth I will make your faithfulness known through all generations.",
+      "reference": "Psalm 89:1"
+    },
+    {
+      "verse": "Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion.",
+      "reference": "Psalm 103:2-4"
+    },
+    {
+      "verse": "The Lord is righteous in all his ways and faithful in all he does.",
+      "reference": "Psalm 145:17"
+    },
+    {
+      "verse": "I will glory in the Lord; let the afflicted hear and rejoice.",
+      "reference": "Psalm 34:2"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, among the peoples; I will sing praises to you among the nations.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "For you make me glad by your deeds, Lord; I sing for joy at what your hands have done.",
+      "reference": "Psalm 92:4"
+    },
+    {
+      "verse": "The Lord is my strength and my defense; he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "But as for me, I will always have hope; I will praise you more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "I will praise you with the harp for your faithfulness, my God; I will sing praise to you with the lyre, Holy One of Israel.",
+      "reference": "Psalm 71:22"
+    },
+    {
+      "verse": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being.",
+      "reference": "Psalm 104:33"
+    },
+    {
+      "verse": "My mouth will speak in praise of the Lord. Let every creature praise his holy name for ever and ever.",
+      "reference": "Psalm 145:21"
+    },
+    {
+      "verse": "I will extol the Lord at all times; his praise will always be on my lips.",
+      "reference": "Psalm 34:1"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, with all my heart; I will tell of all your wonderful deeds.",
+      "reference": "Psalm 9:1"
+    },
+    {
+      "verse": "For the Lord is good and his love endures forever; his faithfulness continues through all generations.",
+      "reference": "Psalm 100:5"
+    },
+    {
+      "verse": "Praise the Lord, my soul; all my inmost being, praise his holy name.",
+      "reference": "Psalm 103:1"
+    },
+    {
+      "verse": "I will sing the Lord’s praise, for he has been good to me.",
+      "reference": "Psalm 13:6"
+    },
+    {
+      "verse": "But I trust in your unfailing love; my heart rejoices in your salvation.",
+      "reference": "Psalm 13:5"
+    },
+    {
+      "verse": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "You are my God, and I will praise you; you are my God, and I will exalt you.",
+      "reference": "Psalm 118:28"
+    },
+    {
+      "verse": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+      "reference": "Psalm 9:1 (ESV)"
+    },
+    {
+      "verse": "The Lord is my strength and my song; he has given me victory.",
+      "reference": "Psalm 118:14 (NLT)"
+    },
+    {
+      "verse": "Let everything that has breath praise the Lord. Praise the Lord.",
+      "reference": "Psalm 150:6"
+    },
+    {
+      "verse": "For great is his love toward us, and the faithfulness of the Lord endures forever. Praise the Lord.",
+      "reference": "Psalm 117:2"
+    },
+    {
+      "verse": "I will praise you, Lord, among the nations; I will sing of you among the peoples.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "My mouth is filled with your praise, declaring your splendor all day long.",
+      "reference": "Psalm 71:8"
+    },
+    {
+      "verse": "I will tell of the kindnesses of the Lord, the deeds for which he is to be praised, according to all the Lord has done for us—yes, the many good things he has done for Israel, according to his compassion and many kindnesses.",
+      "reference": "Isaiah 63:7"
+    },
+    {
+      "verse": "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+      "reference": "Lamentations 3:22-23"
+    },
+    {
+      "verse": "But I will hope continually and will praise you yet more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "The Lord is gracious and righteous; our God is full of compassion.",
+      "reference": "Psalm 116:5"
+    },
+    {
+      "verse": "I will exalt you, my God the King; I will praise your name for ever and ever.",
+      "reference": "Psalm 145:1"
+    },
+    {
+      "verse": "Great is the Lord and most worthy of praise; his greatness no one can fathom.",
+      "reference": "Psalm 145:3"
+    },
+    {
+      "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "My lips will shout for joy when I sing praise to you—I whom you have delivered.",
+      "reference": "Psalm 71:23"
+    },
+    {
+      "verse": "I will sing of the Lord’s great love forever; with my mouth I will make your faithfulness known through all generations.",
+      "reference": "Psalm 89:1"
+    },
+    {
+      "verse": "Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion.",
+      "reference": "Psalm 103:2-4"
+    },
+    {
+      "verse": "The Lord is righteous in all his ways and faithful in all he does.",
+      "reference": "Psalm 145:17"
+    },
+    {
+      "verse": "I will glory in the Lord; let the afflicted hear and rejoice.",
+      "reference": "Psalm 34:2"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, among the peoples; I will sing praises to you among the nations.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "For you make me glad by your deeds, Lord; I sing for joy at what your hands have done.",
+      "reference": "Psalm 92:4"
+    },
+    {
+      "verse": "The Lord is my strength and my defense; he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "But as for me, I will always have hope; I will praise you more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "I will praise you with the harp for your faithfulness, my God; I will sing praise to you with the lyre, Holy One of Israel.",
+      "reference": "Psalm 71:22"
+    },
+    {
+      "verse": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being.",
+      "reference": "Psalm 104:33"
+    },
+    {
+      "verse": "My mouth will speak in praise of the Lord. Let every creature praise his holy name for ever and ever.",
+      "reference": "Psalm 145:21"
+    },
+    {
+      "verse": "I will extol the Lord at all times; his praise will always be on my lips.",
+      "reference": "Psalm 34:1"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, with all my heart; I will tell of all your wonderful deeds.",
+      "reference": "Psalm 9:1"
+    },
+    {
+      "verse": "For the Lord is good and his love endures forever; his faithfulness continues through all generations.",
+      "reference": "Psalm 100:5"
+    },
+    {
+      "verse": "Praise the Lord, my soul; all my inmost being, praise his holy name.",
+      "reference": "Psalm 103:1"
+    },
+    {
+      "verse": "I will sing the Lord’s praise, for he has been good to me.",
+      "reference": "Psalm 13:6"
+    },
+    {
+      "verse": "But I trust in your unfailing love; my heart rejoices in your salvation.",
+      "reference": "Psalm 13:5"
+    },
+    {
+      "verse": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "You are my God, and I will praise you; you are my God, and I will exalt you.",
+      "reference": "Psalm 118:28"
+    },
+    {
+      "verse": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+      "reference": "Psalm 9:1 (ESV)"
+    },
+    {
+      "verse": "The Lord is my strength and my song; he has given me victory.",
+      "reference": "Psalm 118:14 (NLT)"
+    },
+    {
+      "verse": "Let everything that has breath praise the Lord. Praise the Lord.",
+      "reference": "Psalm 150:6"
+    },
+    {
+      "verse": "For great is his love toward us, and the faithfulness of the Lord endures forever. Praise the Lord.",
+      "reference": "Psalm 117:2"
+    },
+    {
+      "verse": "I will praise you, Lord, among the nations; I will sing of you among the peoples.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "My mouth is filled with your praise, declaring your splendor all day long.",
+      "reference": "Psalm 71:8"
+    },
+    {
+      "verse": "I will tell of the kindnesses of the Lord, the deeds for which he is to be praised, according to all the Lord has done for us—yes, the many good things he has done for Israel, according to his compassion and many kindnesses.",
+      "reference": "Isaiah 63:7"
+    },
+    {
+      "verse": "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+      "reference": "Lamentations 3:22-23"
+    },
+    {
+      "verse": "But I will hope continually and will praise you yet more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "The Lord is gracious and righteous; our God is full of compassion.",
+      "reference": "Psalm 116:5"
+    },
+    {
+      "verse": "I will exalt you, my God the King; I will praise your name for ever and ever.",
+      "reference": "Psalm 145:1"
+    },
+    {
+      "verse": "Great is the Lord and most worthy of praise; his greatness no one can fathom.",
+      "reference": "Psalm 145:3"
+    },
+    {
+      "verse": "The Lord is near to all who call on him, to all who call on him in truth.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "My lips will shout for joy when I sing praise to you—I whom you have delivered.",
+      "reference": "Psalm 71:23"
+    },
+    {
+      "verse": "I will sing of the Lord’s great love forever; with my mouth I will make your faithfulness known through all generations.",
+      "reference": "Psalm 89:1"
+    },
+    {
+      "verse": "Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion.",
+      "reference": "Psalm 103:2-4"
+    },
+    {
+      "verse": "The Lord is righteous in all his ways and faithful in all he does.",
+      "reference": "Psalm 145:17"
+    },
+    {
+      "verse": "I will glory in the Lord; let the afflicted hear and rejoice.",
+      "reference": "Psalm 34:2"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "I will give thanks to you, Lord, among the peoples; I will sing praises to you among the nations.",
+      "reference": "Psalm 57:9"
+    },
+    {
+      "verse": "For you make me glad by your deeds, Lord; I sing for joy at what your hands have done.",
+      "reference": "Psalm 92:4"
+    },
+    {
+      "verse": "The Lord is my strength and my defense; he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "But as for me, I will always have hope; I will praise you more and more.",
+      "reference": "Psalm 71:14"
+    },
+    {
+      "verse": "I will praise you with the harp for your faithfulness, my God; I will sing praise to you with the lyre, Holy One of Israel.",
+      "reference": "Psalm 71:22"
+    },
+    {
+      "verse": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being.",
+      "reference": "Psalm 104:33"
+    },
+    {
+      "verse": "My mouth will speak in praise of the Lord. Let every creature praise his holy name for ever and ever.",
+      "reference": "Psalm 145:21"
+    }
+  ]
+},
+  "error": []
+}

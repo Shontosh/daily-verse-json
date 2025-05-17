@@ -1,0 +1,907 @@
+
+{
+  "status": "success",
+  "message": "homepage data",
+  "meta": {},
+  "data":
+  {
+  "category": "Birthday",
+  "verses": [
+    {
+      "verse": "For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope.",
+      "reference": "Jeremiah 29:11"
+    },
+    {
+      "verse": "The Lord bless you and keep you; the Lord make his face to shine upon you and be gracious to you.",
+      "reference": "Numbers 6:24-25"
+    },
+    {
+      "verse": "May he give you the desire of your heart and make all your plans succeed.",
+      "reference": "Psalm 20:4"
+    },
+    {
+      "verse": "This is the day that the Lord has made; let us rejoice and be glad in it.",
+      "reference": "Psalm 118:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; my heart trusts in him, and he helps me.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "Delight yourself in the Lord, and he will give you the desires of your heart.",
+      "reference": "Psalm 37:4"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "Trust in the Lord with all your heart, and do not lean on your own understanding.",
+      "reference": "Proverbs 3:5"
+    },
+    {
+      "verse": "But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles.",
+      "reference": "Isaiah 40:31"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "I can do all things through him who strengthens me.",
+      "reference": "Philippians 4:13"
+    },
+    {
+      "verse": "And we know that for those who love God all things work together for good.",
+      "reference": "Romans 8:28"
+    },
+    {
+      "verse": "The Lord will fight for you; you need only to be still.",
+      "reference": "Exodus 14:14"
+    },
+    {
+      "verse": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness.",
+      "reference": "Galatians 5:22"
+    },
+    {
+      "verse": "Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you.",
+      "reference": "Deuteronomy 31:6"
+    },
+    {
+      "verse": "The Lord your God is in your midst, a mighty one who will save; he will rejoice over you with gladness.",
+      "reference": "Zephaniah 3:17"
+    },
+    {
+      "verse": "Cast all your anxieties on him, because he cares for you.",
+      "reference": "1 Peter 5:7"
+    },
+    {
+      "verse": "Every good gift and every perfect gift is from above.",
+      "reference": "James 1:17"
+    },
+    {
+      "verse": "The steadfast love of the Lord never ceases; his mercies never come to an end.",
+      "reference": "Lamentations 3:22"
+    },
+    {
+      "verse": "Rejoice in the Lord always; again I will say, rejoice.",
+      "reference": "Philippians 4:4"
+    },
+    {
+      "verse": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+      "reference": "Matthew 6:33"
+    },
+    {
+      "verse": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "reference": "John 3:16"
+    },
+    {
+      "verse": "Fear not, for I am with you; be not dismayed, for I am your God.",
+      "reference": "Isaiah 41:10"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "And now, O Lord, for what do I wait? My hope is in you.",
+      "reference": "Psalm 39:7"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "But you, O Lord, are a shield about me, my glory, and the lifter of my head.",
+      "reference": "Psalm 3:3"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "He who began a good work in you will bring it to completion.",
+      "reference": "Philippians 1:6"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "For nothing will be impossible with God.",
+      "reference": "Luke 1:37"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "But as for me, I will look to the Lord; I will wait for the God of my salvation.",
+      "reference": "Micah 7:7"
+    },
+    {
+      "verse": "You make known to me the path of life; in your presence there is fullness of joy.",
+      "reference": "Psalm 16:11"
+    },
+    {
+      "verse": "The Lord upholds all who are falling and raises up all who are bowed down.",
+      "reference": "Psalm 145:14"
+    },
+    {
+      "verse": "The name of the Lord is a strong tower; the righteous man runs into it and is safe.",
+      "reference": "Proverbs 18:10"
+    },
+    {
+      "verse": "And my God will supply every need of yours according to his riches in glory in Christ Jesus.",
+      "reference": "Philippians 4:19"
+    },
+    {
+      "verse": "For the Lord God is a sun and shield; the Lord bestows favor and honor.",
+      "reference": "Psalm 84:11"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "Be still, and know that I am God.",
+      "reference": "Psalm 46:10"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "For you formed my inward parts; you knitted me together in my mother's womb.",
+      "reference": "Psalm 139:13"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "Give thanks to the Lord, for he is good, for his steadfast love endures forever.",
+      "reference": "Psalm 136:1"
+    },
+    {
+      "verse": "The Lord preserves all who love him.",
+      "reference": "Psalm 145:20"
+    },
+    {
+      "verse": "But the Lord is faithful. He will establish you and guard you.",
+      "reference": "2 Thessalonians 3:3"
+    },
+    {
+      "verse": "Great peace have those who love your law; nothing can make them stumble.",
+      "reference": "Psalm 119:165"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "Blessed is the man who trusts in the Lord, whose trust is the Lord.",
+      "reference": "Jeremiah 17:7"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "But the Lord is the true God; he is the living God and the everlasting King.",
+      "reference": "Jeremiah 10:10"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    },
+    {
+      "verse": "The Lord is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "reference": "Psalm 145:8"
+    },
+    {
+      "verse": "The Lord is good, a stronghold in the day of trouble.",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "verse": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "verse": "The Lord is near to all who call on him.",
+      "reference": "Psalm 145:18"
+    },
+    {
+      "verse": "The Lord is my helper; I will not fear; what can man do to me?",
+      "reference": "Hebrews 13:6"
+    },
+    {
+      "verse": "The Lord is faithful in all his words and kind in all his works.",
+      "reference": "Psalm 145:13"
+    },
+    {
+      "verse": "The Lord is my strength and my song, and he has become my salvation.",
+      "reference": "Psalm 118:14"
+    },
+    {
+      "verse": "The Lord is good to all, and his mercy is over all that he has made.",
+      "reference": "Psalm 145:9"
+    },
+    {
+      "verse": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
+      "reference": "Psalm 34:18"
+    },
+    {
+      "verse": "The Lord is my portion, says my soul, therefore I will hope in him.",
+      "reference": "Lamentations 3:24"
+    },
+    {
+      "verse": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+      "reference": "Psalm 28:7"
+    },
+    {
+      "verse": "The Lord is my light and my salvation; whom shall I fear?",
+      "reference": "Psalm 27:1"
+    },
+    {
+      "verse": "The Lord is my rock and my fortress and my deliverer.",
+      "reference": "Psalm 18:2"
+    }]},
+  "error": []
+}
