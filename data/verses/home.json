@@ -4,12 +4,12 @@
   "meta": {},
   "data": {
     "daily_verse":{
-      "verse":"\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future.\"",
-      "reference":"Jeremiah 29:11"
+      "verse":"\"he Lord is my strength and my shield; my heart trusts in Him, and He helps me. My heart leaps for joy, and with my song I praise Him.\"",
+      "reference":"Psalm 28:7 (NIV)"
     },
     "weekly_verse":{
-      "verse":"Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.",
-      "reference":"Jeremiah 29:11"
+      "verse":"But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+      "reference":"Isaiah 40:31 (NIV)"
     } 
   },
   "error": []
