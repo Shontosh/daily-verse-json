@@ -4,12 +4,12 @@
   "meta": {},
   "data": {
     "daily_verse":{
-      "verse":"\"The Lord is my strength and my shield; my heart trusts in Him, and He helps me. My heart leaps for joy, and with my song I praise Him.\"",
-      "reference":"Psalm 28:7 (NIV)"
+      "verse":"\"For I am the Lord your God who takes hold of your right hand and says to you, Do not fear; I will help you.\"",
+      "reference":"Isaiah 41:13 (NIV)"
     },
     "weekly_verse":{
-      "verse":"But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
-      "reference":"Isaiah 40:31 (NIV)"
+      "verse":"The Lord will fight for you; you need only to be still.",
+      "reference":"Exodus 14:14 (NIV)"
     } 
   },
   "error": []
